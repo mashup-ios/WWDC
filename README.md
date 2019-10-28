@@ -9,9 +9,9 @@
 
 ## 📌 Contents
 ### WWDC19
-** What's New in Swift
+* What's New in Swift
   * [가온 191028](gaonK/WWDC19/WhatsNewInSwift.md)
 
-** Testing in Xcode
+* Testing in Xcode
   * [진하 191028](Jinha/WWDC2019/Testing-in-Xcode.md)
 
