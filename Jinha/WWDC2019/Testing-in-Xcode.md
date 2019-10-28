@@ -4,7 +4,7 @@ WWDC 2019
 
 [https://developer.apple.com/videos/play/wwdc2019/413/](https://developer.apple.com/videos/play/wwdc2019/413/)
 
-![](Untitled-4f5c7dd7-e201-48a7-b14c-2a7ae0bf8774.png)
+![](./images/Untitled-4f5c7dd7-e201-48a7-b14c-2a7ae0bf8774.png)
 
 ## Test Pyramid
 
@@ -27,7 +27,7 @@ WWDC 2019
 - 셋 중 가장 오래 걸림
 - 앱의 컴
 
-![](Untitled-300e7840-0465-4779-9e0d-1c4e4fee5651.png)
+![](./images/Untitled-300e7840-0465-4779-9e0d-1c4e4fee5651.png)
 
 ## Types of Tests in XCTest
 
@@ -52,6 +52,6 @@ WWDC 2019
 - 다수의 스킴들끼리 공유 가능
 - Test Configuration
 
-## CI Workflows
+# CI Workflows
 
-## Result Bundle Format
+# Result Bundle Format
