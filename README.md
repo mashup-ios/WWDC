@@ -6,6 +6,12 @@
 * 하루에 한 영상을 보고 간단하게 정리 📝
 * 일주일에 하루는 치팅 데이 가능 ⭕️
 
+
+## 📌 Contents
 ### WWDC19
-* What's New in Swift
+** What's New in Swift
   * [가온 191028](gaonK/WWDC19/WhatsNewInSwift.md)
+
+** Testing in Xcode
+  * [진하 191028](Jinha/WWDC2019/Testing-in-Xcode.md)
+
