@@ -25,7 +25,7 @@
 - 셋 중 가장 오래 걸림
 - 앱의 컴
 
-![](/Jinha/images/Untitled-4f5c7dd7-e201-48a7-b14c-2a7ae0bf8774.png)
+![](/Jinha/images/Untitled-300e7840-0465-4779-9e0d-1c4e4fee5651.png)
 
 ## Types of Tests in XCTest
 
