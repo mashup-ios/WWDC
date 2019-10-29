@@ -2,7 +2,7 @@
 
 🔗 [https://developer.apple.com/videos/play/wwdc2019/413/](https://developer.apple.com/videos/play/wwdc2019/413/)
 
-![](Jinha/images/Untitled-4f5c7dd7-e201-48a7-b14c-2a7ae0bf8774.png)
+![](/Jinha/images/Untitled-4f5c7dd7-e201-48a7-b14c-2a7ae0bf8774.png)
 
 ## Test Pyramid
 
@@ -25,7 +25,7 @@
 - 셋 중 가장 오래 걸림
 - 앱의 컴
 
-![](Jinha/images/Untitled-4f5c7dd7-e201-48a7-b14c-2a7ae0bf8774.png)
+![](/Jinha/images/Untitled-4f5c7dd7-e201-48a7-b14c-2a7ae0bf8774.png)
 
 ## Types of Tests in XCTest
 
