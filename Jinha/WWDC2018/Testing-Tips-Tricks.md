@@ -2,13 +2,14 @@
 
 Session 417
 
-[Testing Tips & Tricks - WWDC 2018 - Videos - Apple Developer](https://developer.apple.com/videos/play/wwdc2018/417/)
+🔗 [Testing Tips & Tricks - WWDC 2018 - Videos - Apple Developer](https://developer.apple.com/videos/play/wwdc2018/417/)
 
 ## Working with Notifications
 
 Notification 은 1대 다로 소통하는 메커니즘이다.
 그래서 의도하지 않은 사이드 이팩트를 피하기 위해 분리된 방식으로 테스트 할 필요가 있다.
 
+```Swift
     class PointsOfInterestTableViewController {
         var observer: AnyObject?
         init() {
@@ -23,9 +24,11 @@ Notification 은 1대 다로 소통하는 메커니즘이다.
             didHandleNotification = true
         }
     }
+```
 
 default NotificatonCenter를 통해 observer를 등록 해주고 있고 실제로 notification을 받았는지 flag값을 통해 확인 해주고 있다.
 
+```Swift
     class PointsOfInterestTableViewControllerTests: XCTestCase {
     	func testNotification() {
     		let observer = PointsOfInterestTableViewController() 
@@ -37,8 +40,9 @@ default NotificatonCenter를 통해 observer를 등록 해주고 있고 실제�
     		XCTAssertTrue(observer.didHandleNotification) 
     	}
     }
+```
 
-ViewController가 사용하는 Notification Center에 post 해주고 있다.
+ViewController가 사용하는 `NotificationCenter`에 post 해주고 있다.
 
 `UIApplication`과 `appDidFinishLaunching` 같은 notification은 여러 레이어에서 observe 하고 있다.
 그래서 사이드이팩트가 생기거나, 테스트가 느려 질 수가 있다.
@@ -50,6 +54,7 @@ NotificationCenter 은 여러 개의 인스턴스를 가질 수 있다.
 
 - `.default` 인스턴스 대신 사용할 `NotificationCeneter`를 생성 -> Dependency Injection
 
+```Swift
     class PointsOfInterestTableViewController {
     	let notificationCenter: NotificationCenter
     	var observer: AnyObject?
@@ -68,9 +73,11 @@ NotificationCenter 은 여러 개의 인스턴스를 가질 수 있다.
         didHandleNotification = true
     }
     }
+```
 
 init 시 unit tests시에 파라미터로 `NotificatioCenter`을 받을 수 있게 수정. 
 
+```Swift
     class PointsOfInterestTableViewControllerTests: XCTestCase {
         func testNotification() {
            let notificationCenter = NotificationCenter()
@@ -83,6 +90,7 @@ init 시 unit tests시에 파라미터로 `NotificatioCenter`을 받을 수 있�
     			XCTAssertTrue(observer.didHandleNotification) 
     		}
     }
+```
 
 테스트 코드도 `NotificationCenter` 을 따로 생성하도록 수정
 
@@ -92,6 +100,7 @@ init 시 unit tests시에 파라미터로 `NotificatioCenter`을 받을 수 있�
 
 ## Test execution speed
 
+```Swift
     func application(_ application: UIApplication, didFinishLaunchingWithOptions opts: ...) -> Bool {
     	let isUnitTesting = ProcessInfo.processInfo.environment["IS_UNIT_TESTING"] == "1" 
     	if isUnitTesting == false {
@@ -99,3 +108,4 @@ init 시 unit tests시에 파라미터로 `NotificatioCenter`을 받을 수 있�
     	}
     	return true
     }
+```
