@@ -13,7 +13,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |가온|✅|✅|✅|✅||||
 |진하|✅|✅|🥳|✅||||
-|주희||||||||
+|주희|||||✅|||
 
 
 ## 📌 Contents
@@ -24,6 +24,7 @@
 ||**Modern Swift API Design**|[가온 191029](gaonK/WWDC19/ModernSwiftAPIDesign.md)|
 |Testing|**Testing in Xcode**|[진하 191028](Jinha/WWDC2019/Testing-in-Xcode.md)|
 |Performance|**Advances in App Background Execution**|[가온 191031](gaonK/WWDC19/AdvancesInAppBackgroundExecution.md)|
+||**Implementing Dark Mode on iOS**|[주희 191031](juhee/ImplementingDarkMode.md)|
 
 ### WWDC18
 |Category|Title|👩🏻‍💻|
