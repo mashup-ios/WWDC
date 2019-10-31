@@ -9,20 +9,19 @@
 
 ## 📌 Contents
 ### WWDC19
-* What's New in Swift
-  * [가온 191028](gaonK/WWDC19/WhatsNewInSwift.md)
-
-* Testing in Xcode
-  * [진하 191028](Jinha/WWDC2019/Testing-in-Xcode.md)
-
-* Modern Swift API Design
-  * [가온 191029](gaonK/WWDC19/ModernSwiftAPIDesign.md)
+|Category|Title|👩🏻‍💻|
+|:-|--------|-------------------|
+|Swift|**What's New in Swift**|[가온 191028](gaonK/WWDC19/WhatsNewInSwift.md)|
+||**Modern Swift API Design**|[가온 191029](gaonK/WWDC19/ModernSwiftAPIDesign.md)|
+|Testing|**Testing in Xcode**|[진하 191028](Jinha/WWDC2019/Testing-in-Xcode.md)|
 
 ### WWDC18
-* A Tour of UICollectionView
-  * [가온 191030](gaonK/WWDC18/ATourOfUICollectionView.md)
+|Category|Title|👩🏻‍💻|
+|:-|--------|-------------------|
+|Swift|**A Tour of UICollectionView**|[가온 191030](gaonK/WWDC18/ATourOfUICollectionView.md)|
 
 ### WWDC15
-* Improving Your Existing Apps with Swift
-  * [진하 191029](/Jinha/WWDC2015/Improving-Your-Existing-Apps-with-Swift.md)
+|Category|Title|👩🏻‍💻|
+|:-|--------|-------------------|
+|Swift|**Improving Your Existing Apps with Swift**|[진하 191029](/Jinha/WWDC2015/Improving-Your-Existing-Apps-with-Swift.md)|
 
