@@ -11,9 +11,9 @@
 
 ||MON|TUE|WED|THU|FRI|SAT|SUN|
 |-|-|-|-|-|-|-|-|
-|가온|⭕️|⭕️|⭕️||||
-|진하|⭕️|⭕️|🥳||||
-|주희|||||||
+|가온|⭕️|⭕️|⭕️|⭕️||||
+|진하|⭕️|⭕️|🥳|||||
+|주희||||||||
 
 
 ## 📌 Contents
@@ -23,6 +23,7 @@
 |Swift|**What's New in Swift**|[가온 191028](gaonK/WWDC19/WhatsNewInSwift.md)|
 ||**Modern Swift API Design**|[가온 191029](gaonK/WWDC19/ModernSwiftAPIDesign.md)|
 |Testing|**Testing in Xcode**|[진하 191028](Jinha/WWDC2019/Testing-in-Xcode.md)|
+|Performance|**Advances in App Background Execution**|[가온 191031](gaonK/WWDC19/AdvancesInAppBackgroundExecution.md)|
 
 ### WWDC18
 |Category|Title|👩🏻‍💻|
