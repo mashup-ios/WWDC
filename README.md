@@ -12,7 +12,7 @@
 ||MON|TUE|WED|THU|FRI|SAT|SUN|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |가온|✅|✅|✅|✅||||
-|진하|✅|✅|🥳|✅||||
+|진하|✅|✅|🥳|✅|✅|||
 |주희||||✅||||
 
 
@@ -37,4 +37,5 @@
 |Category|Title|👩🏻‍💻|
 |:-|--------|-------------------|
 |Swift|**Improving Your Existing Apps with Swift**|[진하 191029](/Jinha/WWDC2015/Improving-Your-Existing-Apps-with-Swift.md)|
+||**Protocol Oriented Programming**|[진하 191101](/Jinha/WWDC2015/Protocol-Oriented-Programming.md)|
 
