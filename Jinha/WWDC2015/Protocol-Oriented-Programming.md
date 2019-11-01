@@ -2,11 +2,11 @@
 
 Session 408
 
-[Protocol-Oriented Programming in Swift - WWDC 2015 - Videos - Apple Developer](https://developer.apple.com/videos/play/wwdc2015/408/)
+🔗 [Protocol-Oriented Programming in Swift - WWDC 2015 - Videos - Apple Developer](https://developer.apple.com/videos/play/wwdc2015/408/)
 
 OOP를 그켬하는 Crusty를 설득시키다 본인이 설득 당하는 내용
 
-![](Untitled-82569a83-3a28-4b94-9601-4ceb82f82751.png)
+![](/Jinha/images/Protocol-Oriented-Programming1.png)
 
 OOP가 짱이야 클래스가 짱이야
 
@@ -17,7 +17,7 @@ OOP가 짱이야 클래스가 짱이야
 - 어메이징한 표현 문법들이 있다
 - 확장성이 있다
 
-![](Untitled-e9b3fd8e-9042-4006-9a96-be58aab5f415.png)
+![](/Jinha/images/Protocol-Oriented-Programming2.png)
 
 아니야 Type이 짱이야 이거 다 Struct랑 enum으로 할 수 있어
 
@@ -30,7 +30,7 @@ OOP가 짱이야 클래스가 짱이야
 
 Crusty: 나 Struct로 커스터마이징 맨날해. 그래 클래스 강력하지만 비용에 대해 얘기해보자
 
-![](Untitled-a69ecb1f-0ae6-425e-aec8-dbcd05da644d.png)
+![](/Jinha/images/Protocol-Oriented-Programming3.png)
 
 1. Implicit Sharing
 
@@ -40,7 +40,7 @@ Crusty: 나 Struct로 커스터마이징 맨날해. 그래 클래스 강력하�
 
     → 하지만! Swift Collection들은 모두 Value 타입이기 때문에 적용이 되지 않는다!
 
-    ![](Untitled-f9f08688-de78-4957-8e1e-78316d2e501f.png)
+    ![](/Jinha/images/Protocol-Oriented-Programming4.png)
 
 2.  Inheritance All Up In Your Business
 상속은 하나만 받을 수 있어. 클래스를 정의 할 때 결정해야 되잖아 나중에 extension 할 수 없잖아. 슈퍼클래스에 저장 프로퍼티들이 있다면 그냥 무조건 받아 드려야한다. 그리고 초기화 해줘야 한다. 메소드들이 어떤식으로 override되고 체이닝 될지 알 수 없다
@@ -50,7 +50,7 @@ Crusty: 나 Struct로 커스터마이징 맨날해. 그래 클래스 강력하�
 3.  Lost Type Relationships
 클래스를 추상화를 하기 때문에 생기는 문제들
 
-![](Untitled-ab8befe1-5289-4afd-a907-e4faa100954b.png)
+![](/Jinha/images/Protocol-Oriented-Programming5.png)
 
 그래서 더 나은 추상화 메커니즘이 필요해 → Swift Protocol
 
@@ -58,6 +58,7 @@ Crusty: 나 Struct로 커스터마이징 맨날해. 그래 클래스 강력하�
 
 ## Start with a Protocol
 
+```Swift
     protocol Ordered {
     	func precedes(other: Self) -> Bool
     }
@@ -69,7 +70,9 @@ Crusty: 나 Struct로 커스터마이징 맨날해. 그래 클래스 강력하�
     		return self.value < other.value 
     	}
     }
+```
 
+```Swift
     func binarySearch<T : Ordered>(sortedKeys: [T], forKey k: T) -> Int { var lo = 0
     	var hi = sortedKeys.count
     
@@ -80,9 +83,10 @@ Crusty: 나 Struct로 커스터마이징 맨날해. 그래 클래스 강력하�
     	
     	return lo 
     }
-
+```
 ### Protocol Extensions
 
+```Swift
     protocol Renderer {
       func moveTo(p: CGPoint)
       func lineTo(p: CGPoint)
@@ -95,6 +99,7 @@ Crusty: 나 Struct로 커스터마이징 맨날해. 그래 클래스 강력하�
     	func circleAt(center: CGPoint, radius: CGFloat) { ... } 
     	func rectangleAt(edges: CGRect) { ... }
     }
+```
 
 ## When to Use Classes
 
