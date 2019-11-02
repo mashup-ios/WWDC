@@ -1,45 +1,46 @@
-LLDB : po.  Print
+# LLDB: Beyond "po"
+LLDB는 매우 훌륭한 디버깅 툴로 콘솔에서 바로 디버깅을 할 수 있다.
 
-LLDB는 매우 훌륭한 디버깅 툴이다.
+```swift
+struct Trip {
+  var name: String
+  var destination: [City]
+  ...
+}
 
-콘솔에서 바로 디버깅을 할 수 있다.
+let cruise = Trip(...)
+```
+```python
+po cruise
+```
+하면 cruise 변수에 대한 설명이 나오는데, 이때의 `description`을 customize 할 수 있다.
 
-Trip 을 하는 struct 
+### Customizing po description
+`CustomDebugStringConvertible` `protocol`을 채택하면 debug description을 바꿔준다. 이건 이 프로토콜을 채택한 **클래스**에서만 적용된다. (끄니까 `destination`에는 적용되지 않는다.
 
-Po cruise
-> 프린팅
-
-po를 customize 할 수 있음
-
-CustomDebugStringConvertible protocol을 채택하면 debug description을 바꿔준다. 이건 이 프로토콜을 채택한 상위 클래스에서만 적용된다. 
-
-
-만약 하위 struct에 대해서도 커스터마이징이 필요하다면 CustomReflectable protocol 문서를 확인하자.
+만약 하위 struct에 대해서도 커스터마이징이 필요하다면 `CustomReflectable` `protocol` 문서를 확인하자.
 
 po는 단순히 프린팅만을 하는 것이 아니라, 객체의 내부 프로퍼티에 접근하거나 함수를 호출하는데 사용할 수도 있다.
 
+### Create expression with command alias
 입력 가능한 표현식을 만들어 사용할 수 있다. po는 사실 오브젝트 설명을 인쇄하기 위한 expression이라는 명령의 별명일 뿐이다.
 
 예를 들어 첫 번째 인수로 고유한 명령 이름을 지정한 다음 별칭을 지정할 커맨드를 입력하자.
 별칭을 지정하는 방법은 command alias + 별칭 + expression + 고유명령이름
 
-Expression —object-description — cruise
-Command alias my_po expression —object-description
+```python
+expression —object-description — cruise
+command alias my_po expression —object-description
 my_po cruise
+```
 
-
-Po Under the Hood
+## Po Under the Hood
 LLDB를 실제 입력된 표현식을 분석하거나 평가하지는 않는다. 하지만 사용자가 제공한 표현식을 컴파일 할 수 있는 소스코드를 생성한다.
 
 내장된 Swift와 claim compiler를 사용해서 디버그된 프로그램의 컨텍스트에서 실행되는 코드를 컴파일한다.
 
 실행이 완료되면 LLDB는 결과 값에 엑세스 할 수 있다..
 이를 위해서는 LLDB가 이전 결과를 다른 소스 코드조각으로 감싸야한다. 이 ㅗ한 컴파일되고 디버그 프로세스 컨텍스트에서 수행된다. 수행 결과에 대한 문자열을 LLDB에서 보여준다.
-
-P-command
-```swift
-P cruise
-```
 
 `$R0` > 이후 LLDB에서 그대로 사용할 수 있다.
 P $R0.destinations
@@ -107,7 +108,7 @@ v cruise.name 은 실패하지 않는다.
 이를 위해 LLDB는 다음 세가지를 지원한다.
 Filters /. Tring summaries /synthetic children
 
-${var.name} 방식으로 변수에 대한 정보를 가지고 descriptiondp tkdydgkf tn dlTek.
+${var.name} 방식으로 변수에 대한 정보를 가지고 description에 사용할 수 있다.
 
 SBTarget, SBProcess, SBThread, SBFrame, SBValue
 
