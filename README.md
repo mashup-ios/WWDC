@@ -13,7 +13,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |가온|✅|✅|✅|✅|✅|||
 |진하|✅|✅|🥳|✅|✅|✅||
-|주희||||✅||||
+|주희||||✅|🥳|✅||
 
 
 ## 📌 Contents
@@ -25,8 +25,8 @@
 |Testing|**Testing in Xcode**|[진하 191028](Jinha/WWDC2019/Testing-in-Xcode.md)|
 |Performance|**Advances in App Background Execution**|[가온 191031](gaonK/WWDC19/AdvancesInAppBackgroundExecution.md)|
 |UI Frameworks|**Implementing Dark Mode on iOS**|[주희 191031](Juhee/ImplementingDarkMode.md)|
-|Debugging|**LLDB: Beyond "po"**|[가온 191101](gaonK/WWDC19/LLDBBeyondPo.md)|
-|Debugging|**LLDB: Beyond "po"**|[주희 191102](Juhee/2019/LLDB-Beyond-po.md)|
+|Debugging|**LLDB: Beyond "po"**|[가온 191101](gaonK/WWDC19/LLDBBeyondPo.md) [주희 191102](Juhee/2019/LLDB-Beyond-po.md)|
+
 
 ### WWDC18
 |Category|Title|👩🏻‍💻|
