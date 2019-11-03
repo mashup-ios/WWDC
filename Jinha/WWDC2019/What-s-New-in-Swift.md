@@ -21,7 +21,7 @@ ABI = Application Binary Interface
 
 컴파일 코드가 런타임에 어떻게 상호작용 할 것 인지에 대한 규칙
 
-![](Untitled-d149d3ff-95a5-46e9-8b25-40f036b5723a.png)
+![](/Jinha/images/What-s-New-in-Swift-5-1.png)
 
 exec : Swift로 짠 프로그램
 
@@ -41,7 +41,7 @@ ABI stability 전에는,  같은 컴파일러로 빌드 되어야만 ABI가 호�
 - Module file: 컴파일러가 프레임워크를 빌드할 때, 프레임워크의 모든 API를 나열해 manifest를 만든다. Swift Module file이라고 불리는 manifest
 - Module Interface file: Swift 5.1에서 보충적인 manifest를 만들었다. 프레임워크가 stable interface를 제공 하는 데에 사용할 수 있는
 
-![](Untitled-a3100707-ab02-4450-afdb-465bda4e51ff.png)
+![](/Jinha/images/What-s-New-in-Swift-5-2.png)
 
 > Module + ABI stability = Binary frameworks
 
@@ -53,15 +53,15 @@ ABI stability 전에는,  같은 컴파일러로 빌드 되어야만 ABI가 호�
 
 [Swift Evolution](https://apple.github.io/swift-evolution/)
 
-![](Untitled-23d523ab-8ede-4e0a-90e7-bc7e5233e06e.png)
+![](/Jinha/images/What-s-New-in-Swift-5-3.png)
 
 single expression 일때 return 생략 가능
 
-![](Untitled-04f5c235-7e3e-4ce4-a695-8c4053603c72.png)
+![](/Jinha/images/What-s-New-in-Swift-5-4.png)
 
 Struct 디폴트 값이 있다면 초기화 시에 명시 해주지 않아도 된다 컴파일러가 해준다
 
-![](Untitled-10a874e5-0087-44f1-a89b-50276fd21528.png)
+![](/Jinha/images/What-s-New-in-Swift-5-5.png)
 
 벡터 좌표에 대한 타입이 생겼다
 
@@ -74,7 +74,7 @@ Struct 디폴트 값이 있다면 초기화 시에 명시 해주지 않아도 �
 ### Opaque Result Type
 
 ### Property Wrapper Types
-
+```Swift
     @propertyWrapperstruct 
     UserDefault<T> {
     	let key: String
@@ -94,14 +94,16 @@ Struct 디폴트 값이 있다면 초기화 시에 명시 해주지 않아도 �
     		}
     	}
     }
+```
 
+```Swift
     // Using UserDefault property wrapper to declare and access properties
      @UserDefault("USES_TOUCH_ID", defaultValue: false)
      static var usesTouchID: Bool
     
      @UserDefault("LOGGED_IN", defaultValue: false)
      static var isLoggedIn: Bool
-
+```
 ### DSLs(Domain Specific Languages)
 
 SwiftUI파티
