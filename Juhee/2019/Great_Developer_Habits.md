@@ -1,4 +1,4 @@
-## Great Developer Habits
+## [Great Developer Habits](https://developer.apple.com/videos/play/wwdc2019/239/?time=598)
 
 Craft : enginer로서 우리도 무언가를 제작한다.
 
