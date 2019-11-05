@@ -1,23 +1,18 @@
 # What's New in Testing
 
 Session 409
+
 🔗 [What's New in Testing - WWDC 2017 - Videos - Apple Developer](https://developer.apple.com/videos/play/wwdc2017/409/)
 
 
 ## Async Testing
 
 closure, delegate method, delayed completion 을 통해 콜백받아 즉시 실행 되지 않는 것을 테스트
-
 Opening documents
-
 Work on background threads
-
 Communication with services and extensions
-
 Network activity
-
 Animations
-
 UI test conditions
 
 ### XCTestCase APIs
