@@ -1,6 +1,4 @@
-[Introducing Accelerate for Swift](https://developer.apple.com/videos/play/wwdc2019/718/?time=276)
-
-## Overview
+##[Introducing Accelerate for Swift](https://developer.apple.com/videos/play/wwdc2019/718/?time=276)
 
 ### Accelerate 프레임워크란?
 - CPU에서 실행되는 이미지 및 신호 처리, 벡터 산술, 선형 대수 및 기계 학습을 지원하는 수천 개의 저수준 수학적 예측치를 제공하는 것입니다.
