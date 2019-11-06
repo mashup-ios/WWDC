@@ -44,7 +44,7 @@ public protocol MutableDataProtocol: DataProtocol, MutableCollection, RangeRepla
 
 연속성을 보장하지 않는 다른 버퍼 타입에 대해서는 채택할 수 있는 두 개의 프로토콜을 소개한다.
 
-#### Comporession
+#### Compression
 
 ```swift
 let compressed = try data.compressed(using .lzfse)
