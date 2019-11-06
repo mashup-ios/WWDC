@@ -12,7 +12,7 @@
 ||MON|TUE|WED|THU|FRI|SAT|SUN|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |가온|🥳|✅||||||
-|진하|🥳|✅||||||
+|진하|🥳|✅|✅|||||
 |주희|✅|✅||||||
 ||10.28|10.29|10.30|10.31|11.1|11.2|11.3|
 |가온|✅|✅|✅|✅|✅|🥳|✅|
@@ -42,12 +42,14 @@
 |Swift|**A Tour of UICollectionView**|[가온 191030](gaonK/WWDC18/ATourOfUICollectionView.md)|
 ||**Swift Generics (Expanded)**|[가온 191105](gaonK/WWDC18/SwiftGenerics(Expanded).md)|
 |Testing|**Testing Tips & Tricks**|[진하 191031](/Jinha/WWDC2018/Testing-Tips-Tricks.md)|
-||**What's New in Testing**|[진하 191102](/Jinha/WWDC2018/What-s-New-in-Testing.md)|
+||**What's New in Testing**|[진하 191106](/Jinha/WWDC2018/Advanced-Testing-and-Continuous-Integration.md)|
 
-### WWDC18
+### WWDC17
 |Category|Title|👩🏻‍💻|
 |:-|--------|-------------------|
 |Testing|**What's New in Testing**|[진하 191105](/Jinha/WWDC2017/What-s-New-in-Testing.md)|
+||**Advanced Testing and Continuous Integration**|[진하 191105](/Jinha/WWDC2017/What-s-New-in-Testing.md)|
+
 
 ### WWDC15
 |Category|Title|👩🏻‍💻|
