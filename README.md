@@ -13,7 +13,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |가온|🥳|✅|✅|||||
 |진하|🥳|✅|✅|||||
-|주희|✅|✅||||||
+|주희|✅|✅|✅|||||
 ||10.28|10.29|10.30|10.31|11.1|11.2|11.3|
 |가온|✅|✅|✅|✅|✅|🥳|✅|
 |진하|✅|✅|🥳|✅|✅|✅|✅|
@@ -31,6 +31,7 @@
 |Performance|**Advances in App Background Execution**|[가온 191031](gaonK/WWDC19/AdvancesInAppBackgroundExecution.md)|
 |Accelerater|**Introducing Accelerate for Swift**|[주희 191105](Juhee/2019/Swift_Accelerate.md)|
 |UI Frameworks|**Implementing Dark Mode on iOS**|[주희 191031](Juhee/ImplementingDarkMode.md)|
+|UI Frameworks|**Architecting Your App for Multiple Windows**|[주희 191106](Juhee/2019/Architecting_Multiple_Windows.md)|
 |Debugging|**LLDB: Beyond "po"**|[가온 191101](gaonK/WWDC19/LLDBBeyondPo.md) [주희 191102](Juhee/2019/LLDB-Beyond-po.md)|
 |Foundation|**Advances in Foundation**|[가온 191103](gaonK/WWDC19/AdvancesInFoundation.md)|
 |Accessibility|**Creating an Accessible Reading Experience**|[주희 191103](Juhee/2019/Creating_an_Accessible_Reading_Experience.md)|
