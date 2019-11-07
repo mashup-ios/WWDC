@@ -44,13 +44,13 @@
 |Swift|**A Tour of UICollectionView**|[가온 191030](gaonK/WWDC18/ATourOfUICollectionView.md)|
 ||**Swift Generics (Expanded)**|[가온 191105](gaonK/WWDC18/SwiftGenerics(Expanded).md)|
 |Testing|**Testing Tips & Tricks**|[진하 191031](/Jinha/WWDC2018/Testing-Tips-Tricks.md)|
-||**What's New in Testing**|[진하 191106](/Jinha/WWDC2018/Advanced-Testing-and-Continuous-Integration.md)|
+||**What's New in Testing**|[진하 191102](/Jinha/WWDC2018/What-s-New-in-Testing.md)|
 
 ### WWDC17
 |Category|Title|👩🏻‍💻|
 |:-|--------|-------------------|
 |Testing|**What's New in Testing**|[진하 191105](/Jinha/WWDC2017/What-s-New-in-Testing.md)|
-||**Advanced Testing and Continuous Integration**|[진하 191105](/Jinha/WWDC2017/What-s-New-in-Testing.md)|
+||**Advanced Testing and Continuous Integration**|[진하 191106](/Jinha/WWDC2018/Advanced-Testing-and-Continuous-Integration.md)|
 
 
 ### WWDC15
