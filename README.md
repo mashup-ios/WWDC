@@ -13,7 +13,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |가온|🥳|✅|✅|✅||||
 |진하|🥳|✅|✅|||||
-|주희|✅|✅|✅|||||
+|주희|✅|✅|✅|✅||||
 ||10.28|10.29|10.30|10.31|11.1|11.2|11.3|
 |가온|✅|✅|✅|✅|✅|🥳|✅|
 |진하|✅|✅|🥳|✅|✅|✅|✅|
@@ -35,7 +35,7 @@
 |Debugging|**LLDB: Beyond "po"**|[가온 191101](gaonK/WWDC19/LLDBBeyondPo.md) [주희 191102](Juhee/2019/LLDB-Beyond-po.md)|
 |Foundation|**Advances in Foundation**|[가온 191103](gaonK/WWDC19/AdvancesInFoundation.md)|
 |Accessibility|**Creating an Accessible Reading Experience**|[주희 191103](Juhee/2019/Creating_an_Accessible_Reading_Experience.md)|
-|Safari and Web|**Embedding and Sharing Visually Rich Links**|[가온 191107](gaonK/WWDC19/EmbeddingAndSharingVisuallyRichLinks.md)|
+|Safari and Web|**Embedding and Sharing Visually Rich Links**|[가온 191107](gaonK/WWDC19/EmbeddingAndSharingVisuallyRichLinks.md) [주희 191108](Juhee/2019/Embedding%20and%20Sharing%20Visually%20Rich%20Links.md)|
 
 
 ### WWDC18
