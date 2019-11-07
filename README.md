@@ -50,8 +50,11 @@
 |Category|Title|👩🏻‍💻|
 |:-|--------|-------------------|
 |Testing|**What's New in Testing**|[진하 191105](/Jinha/WWDC2017/What-s-New-in-Testing.md)|
-||**Advanced Testing and Continuous Integration**|[진하 191106](/Jinha/WWDC2017/Advanced-Testing-and-Continuous-Integration.md)|
 
+### WWDC16
+|Category|Title|👩🏻‍💻|
+|:-|--------|-------------------|
+|Testing|**Advanced Testing and Continuous Integration**|[진하 191106](/Jinha/WWDC2016/Advanced-Testing-and-Continuous-Integration.md)|
 
 ### WWDC15
 |Category|Title|👩🏻‍💻|
