@@ -1,10 +1,8 @@
 # Swift in Practice
 
 > 📅 2019.11.07 (목)
-
-WWDC 2015
-Session :  411
-Category : Swift
+>
+>WWDC 2015 | Session :  411 | Category : Swift
 
 🔗
 
