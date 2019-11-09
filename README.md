@@ -11,7 +11,7 @@
 
 ||MON|TUE|WED|THU|FRI|SAT|SUN|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|가온|🥳|✅|✅|✅|✅|✅||
+|가온|🥳|✅|✅|✅|✅|✅|✅|
 |진하|🥳|✅|✅|✅|✅|✅||
 |주희|✅|✅|✅|✅|🥳|✅||
 ||10.28|10.29|10.30|10.31|11.1|11.2|11.3|
@@ -45,7 +45,8 @@
 ||**Swift Generics (Expanded)**|[가온 191105](gaonK/WWDC18/SwiftGenerics(Expanded).md)|
 |Testing|**Testing Tips & Tricks**|[진하 191031](/Jinha/WWDC2018/Testing-Tips-Tricks.md)|
 ||**What's New in Testing**|[진하 191102](/Jinha/WWDC2018/What-s-New-in-Testing.md)|/Jinha/WWDC2018/What-s-New-in-Testing.md
-|Accessibility|**Accessible Drag and Drop**|[주희 191110](Juhee/2018/Accessible_Drag%26Drop.md)|
+|Accessibility|**Accessible Drag and Drop**|[주희 191109](Juhee/2018/Accessible_Drag%26Drop.md)|
+|Debugging|**iOS Memory Deep Dive**|[가온 191110](gaonK/WWDC18/iOSMemoryDeepDive.md)|
 
 ### WWDC17
 |Category|Title|👩🏻‍💻|
