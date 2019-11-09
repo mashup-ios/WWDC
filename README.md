@@ -11,7 +11,7 @@
 
 ||MON|TUE|WED|THU|FRI|SAT|SUN|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|가온|🥳|✅|✅|✅|✅|||
+|가온|🥳|✅|✅|✅|✅|✅||
 |진하|🥳|✅|✅|✅|✅|✅||
 |주희|✅|✅|✅|✅|🥳|✅||
 ||10.28|10.29|10.30|10.31|11.1|11.2|11.3|
@@ -66,6 +66,7 @@
 ||**Swift in Practice**|[진하 191107](/Jinha/WWDC2015/Swift-in-Practice.md)|
 ||**Building Better Apps with Value Types in Swift**|[진하 191108](/Jinha/WWDC2015/Building-Better-Apps-with-Value-Types-in-Swift.md)|
 |Interface Builder|**Implementing UI Designs in Interface Builder**|[진하 191109](/Jinha/WWDC2015/Implementing-UI-Designs-in-Interface-Builder.md)|
+|Cloud and Local Storage|**What's New in CloudKit**|[가온 191109](gaonK/WWDC15/WhatsNewInCloudKit.md)|
 
 
 
