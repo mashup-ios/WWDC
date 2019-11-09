@@ -29,15 +29,15 @@ Drag and Drop은 iOS 11에 도입 된 기술로, `Application`을 사용하는 �
 
 ### Accessible Drag and Drop Concepts
 접근성 요소가 직접 Drag-Drop을 호스팅하지 않을 수 있습니다.
-• Subviews might host interactions
-• Element might descend from a view that hosts interactions
+* Subviews might host interactions
+* Element might descend from a view that hosts interactions
 Solution
-• Accessibility Drag and Drop API를 통해 접근성 기술을 사용할 수 있는 방식으로 논리적 드래그 앤 드롭을 지정할 수 있습니다.
+* Accessibility Drag and Drop API를 통해 접근성 기술을 사용할 수 있는 방식으로 논리적 드래그 앤 드롭을 지정할 수 있습니다.
 
 #### API 살펴보기
 `UIAccessibilityDragging`: drag sources / drop points 정의하는 `protocol`
-• Drag sources : 어디서 drag가 시작됐는지?
-• Drop points : 어디서 drop되었는지?
+* Drag sources : 어디서 drag가 시작됐는지?
+* Drop points : 어디서 drop되었는지?
 Users activate drags and drops like custom actions
 ```swift
 extension NSObject {
@@ -49,12 +49,12 @@ extension NSObject {
 ```
 
 * Drags and drops 가끔 시스템에 의해 자동 노출 될 수 있습니다.
-  • 이 경우 이름이 자동으로 지정됩니다.
-  • Only interactions in an element’s subtree are exposed
+  * 이 경우 이름이 자동으로 지정됩니다.
+  * Only interactions in an element’s subtree are exposed
 * `UIAccessibilityDragging`
-  • 이 프로토콜을 채택하면 원하는 뷰만 상호작용되도록 정확히 노출할 수 있습니다.
-  • Allows specifying a specific name for each
-  • Implement for the best experience
+  * 이 프로토콜을 채택하면 원하는 뷰만 상호작용되도록 정확히 노출할 수 있습니다.
+  * Allows specifying a specific name for each
+  * Implement for the best experience
 
 #### 예시 : Ancestor's Drag 노출
 * Bar graph built with CALayer
@@ -115,8 +115,8 @@ func makeAccessibilityElements() {
 
 ### Exposing Multiple Drops
 * Contact card
-  • Card is one element
-  • 카드 안에 드랍포인트가 여러개 있을 경우
+  * Card is one element
+  * 카드 안에 드랍포인트가 여러개 있을 경우
 * `accessibilityDropPointDescriptors`를 사용해서 노출시킬 드랍포인트를 지정해주고 `UIAccessibilityLocationDescriptor`로 드래그할 대상을 지정해줍시다!
 ```swift
 override var accessibilityDropPointDescriptors: [UIAccessibilityLocationDescriptor]? {
