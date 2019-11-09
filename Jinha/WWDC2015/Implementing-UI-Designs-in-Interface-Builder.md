@@ -1,23 +1,24 @@
 # Implementing UI Designs in Interface Builder
 
 > 📅 2019.11.09 (토)
+>
 >WWDC 2015 | Session : 407 | Category : Interface Builder
 
 🔗 [Implementing UI Designs in Interface Builder - WWDC 2015 - Videos - Apple Developer](https://developer.apple.com/videos/play/wwdc2015/407/)
 
 ## Design Time
 
-IBDesignable : custom drawing code를 Interface builder 에서 볼 수 있다
+* IBDesignable : custom drawing code를 Interface builder 에서 볼 수 있다
 
-IBInspectable :Interface builder에 inspector를 생성 해준다
+* IBInspectable :Interface builder에 inspector를 생성 해준다
 
-![](/Jinha/Images/Implementing-UI-Designs-in-Interface-Builder-1.png)
+![](/Jinha/images/Implementing-UI-Designs-in-Interface-Builder-1.png)
 
-![](/Jinha/Images/Implementing-UI-Designs-in-Interface-Builder-2.png)
+![](/Jinha/images/Implementing-UI-Designs-in-Interface-Builder-2.png)
 
 ## Build Time
 
-![](/Jinha/Images/Implementing-UI-Designs-in-Interface-Builder-3.png)
+![](/Jinha/images/Implementing-UI-Designs-in-Interface-Builder-3.png)
 
 design 타임에는 XML document로 작업을 한다
 
@@ -36,7 +37,7 @@ nib 파일은 작고, 최적화된 binary 파일이다.
 
 ### Loading Storyboards At Run Time
 
-![](/Jinha/Images/Implementing-UI-Designs-in-Interface-Builder-4.png)
+![](/Jinha/images/Implementing-UI-Designs-in-Interface-Builder-4.png)
 
 UIStoryboard를 통해 storyboard를 할당 할 때(`init(name: bundle:)`), UIStoryboard 인스턴스 스스로 모든 할당 메모리들을 초기화 한다. ViewController, View 모두 아직 없다
 
@@ -59,7 +60,7 @@ Interface Builder은 자동으로 TableViewCell, nib을 가져오고 TableView�
 
 ## Runtime
 
-![](/Jinha/Images/Implementing-UI-Designs-in-Interface-Builder-5.png)
+![](/Jinha/images/Implementing-UI-Designs-in-Interface-Builder-5.png)
 
 런타임 시 가능 한 것
 
