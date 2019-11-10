@@ -11,7 +11,7 @@
 
 ||MON|TUE|WED|THU|FRI|SAT|SUN|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|가온||||||||
+|가온|✅|||||||
 |진하||||||||
 |주희||||||||
 ||11.4|11.5|11.6|11.7|11.8|11.9|11.10|
@@ -34,7 +34,7 @@
 ||**Introducing Accelerate for Swift**|[주희 191105](Juhee/2019/Swift_Accelerate.md)|
 |Testing|**Testing in Xcode**|[진하 191028](Jinha/WWDC2019/Testing-in-Xcode.md)|
 |Performance|**Advances in App Background Execution**|[가온 191031](gaonK/WWDC19/AdvancesInAppBackgroundExecution.md)|
-|UI Frameworks|**Implementing Dark Mode on iOS**|[주희 191031](Juhee/ImplementingDarkMode.md)|
+|UI Frameworks|**Implementing Dark Mode on iOS**|[주희 191031](Juhee/ImplementingDarkMode.md) [가온 191111](gaonK/WWDC19/ImplementingDarkModeOniOS.md)|
 ||**Architecting Your App for Multiple Windows**|[주희 191106](Juhee/2019/Architecting_Multiple_Windows.md)|
 |Debugging|**LLDB: Beyond "po"**|[가온 191101](gaonK/WWDC19/LLDBBeyondPo.md) [주희 191102](Juhee/2019/LLDB-Beyond-po.md)|
 |Foundation|**Advances in Foundation**|[가온 191103](gaonK/WWDC19/AdvancesInFoundation.md)|
