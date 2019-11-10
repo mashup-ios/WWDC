@@ -27,9 +27,9 @@
 |Swift|**What's New in Swift**|[가온 191028](gaonK/WWDC19/WhatsNewInSwift.md) [진하 191103](Jinha/WWDC2019/What-s-New-in-Swift.md)|
 ||**Modern Swift API Design**|[가온 191029](gaonK/WWDC19/ModernSwiftAPIDesign.md)|
 ||**Great Developer Habits**|[주희 191104](Juhee/2019/Great_Developer_Habits.md)
+||**Introducing Accelerate for Swift**|[주희 191105](Juhee/2019/Swift_Accelerate.md)|
 |Testing|**Testing in Xcode**|[진하 191028](Jinha/WWDC2019/Testing-in-Xcode.md)|
 |Performance|**Advances in App Background Execution**|[가온 191031](gaonK/WWDC19/AdvancesInAppBackgroundExecution.md)|
-|Accelerater|**Introducing Accelerate for Swift**|[주희 191105](Juhee/2019/Swift_Accelerate.md)|
 |UI Frameworks|**Implementing Dark Mode on iOS**|[주희 191031](Juhee/ImplementingDarkMode.md)|
 ||**Architecting Your App for Multiple Windows**|[주희 191106](Juhee/2019/Architecting_Multiple_Windows.md)|
 |Debugging|**LLDB: Beyond "po"**|[가온 191101](gaonK/WWDC19/LLDBBeyondPo.md) [주희 191102](Juhee/2019/LLDB-Beyond-po.md)|
