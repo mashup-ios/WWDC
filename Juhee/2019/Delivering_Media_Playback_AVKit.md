@@ -1,5 +1,3 @@
-
-
 ---
 layout: post
 title:  "Delivering Intuitive Media Playback with AVKit"
@@ -10,6 +8,7 @@ author: Juhee Kim
 mathjax: true
 comments: true
 ---
+
 
 ## [Delivering Intuitive Media Playback with AVKit](https://developer.apple.com/videos/play/wwdc2019/503/)
 
