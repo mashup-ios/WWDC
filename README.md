@@ -12,7 +12,7 @@
 ||MON|TUE|WED|THU|FRI|SAT|SUN|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |가온|✅|✅||||||
-|진하||||||||
+|진하|✅|||||||
 ||11.4|11.5|11.6|11.7|11.8|11.9|11.10|
 |가온|🥳|✅|✅|✅|✅|✅|✅|
 |진하|🥳|✅|✅|✅|✅|✅|✅|
@@ -57,7 +57,7 @@
 |:-|--------|-------------------|
 |Testing|**What's New in Testing**|[진하 191105](/Jinha/WWDC2017/What-s-New-in-Testing.md)|
 |Interaction Design|**Writing Great Alerts**|[가온 191112](gaonK/WWDC17/WritingGreatAlerts.md)|
-
+|Xcode|**Localizing with Xcode 9**|[진하 191111](/Jinha/WWDC2017/Localizing-with-Xcode9.md)|
 ### WWDC16
 |Category|Title|👩🏻‍💻|
 |:-|--------|-------------------|
