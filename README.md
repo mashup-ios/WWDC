@@ -12,7 +12,7 @@
 ||MON|TUE|WED|THU|FRI|SAT|SUN|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |가온|✅|✅|✅|||||
-|진하|✅|😴||||||
+|진하|✅|😴|✅|||||
 ||11.4|11.5|11.6|11.7|11.8|11.9|11.10|
 |가온|🥳|✅|✅|✅|✅|✅|✅|
 |진하|🥳|✅|✅|✅|✅|✅|✅|
@@ -51,6 +51,8 @@
 ||**What's New in Testing**|[진하 191102](/Jinha/WWDC2018/What-s-New-in-Testing.md)|/Jinha/WWDC2018/What-s-New-in-Testing.md
 |Accessibility|**Accessible Drag and Drop**|[주희 191109](Juhee/2018/Accessible_Drag%26Drop.md)|
 |Debugging|**iOS Memory Deep Dive**|[가온 191110](gaonK/WWDC18/iOSMemoryDeepDive.md)|
+|Xcode|**New Localization Workflows in Xcode 10**|[진하 191113](/Jinha/WWDC2018/New-Localization-Workflows-in-Xcode10.md)|
+
 
 ### WWDC17
 |Category|Title|👩🏻‍💻|
