@@ -11,7 +11,7 @@
 
 ||MON|TUE|WED|THU|FRI|SAT|SUN|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|가온|✅|✅||||||
+|가온|✅|✅|✅|||||
 |진하|✅|||||||
 ||11.4|11.5|11.6|11.7|11.8|11.9|11.10|
 |가온|🥳|✅|✅|✅|✅|✅|✅|
@@ -70,7 +70,7 @@
 |Swift|**Improving Your Existing Apps with Swift**|[진하 191029](/Jinha/WWDC2015/Improving-Your-Existing-Apps-with-Swift.md)|
 ||**Protocol Oriented Programming**|[진하 191101](/Jinha/WWDC2015/Protocol-Oriented-Programming.md) [가온 191106](gaonK/WWDC15/ProtocolOrientedProgrammingInSwift.md)|
 ||**Swift in Practice**|[진하 191107](/Jinha/WWDC2015/Swift-in-Practice.md)|
-||**Building Better Apps with Value Types in Swift**|[진하 191108](/Jinha/WWDC2015/Building-Better-Apps-with-Value-Types-in-Swift.md)|
+||**Building Better Apps with Value Types in Swift**|[진하 191108](/Jinha/WWDC2015/Building-Better-Apps-with-Value-Types-in-Swift.md) [가온 191113](gaonK/WWDC15/BuildingBetterAppsWithValueTypesInSwift.md)|
 |Interface Builder|**Implementing UI Designs in Interface Builder**|[진하 191109](/Jinha/WWDC2015/Implementing-UI-Designs-in-Interface-Builder.md)|
 |Cloud and Local Storage|**What's New in CloudKit**|[가온 191109](gaonK/WWDC15/WhatsNewInCloudKit.md)|
 |Testing|**Continuous Integration and Code Coverage in Xcode**|[진하 191110](/Jinha/WWDC2015/Continuous-Integration-and-Code-Coverage-in-Xcode.md)|
