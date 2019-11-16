@@ -4,6 +4,7 @@
 >
 > WWDC 2015 |  Session : 406 | Category : Testing
 
+
 🔗 [UI Testing in Xcode - WWDC 2015 - Videos - Apple Developer](https://developer.apple.com/videos/play/wwdc2015/406/)
 
 UI testing
@@ -108,7 +109,7 @@ Identifiers
 
 Most elements are found by combining types and identifier
 
-![](/Jinha/imagesUI-Testing-in-Xcode-1.png)
+![](/Jinha/images/UI-Testing-in-Xcode-1.png)
 
 ### Element Uniqueness
 
@@ -150,4 +151,4 @@ Accessibility 에게 보이는 element만 찾을 수 있다
 
 Accessibility data의 질이 좋을 수록 테스트를 작성 하는 것이 쉽고 더 신뢰 할 수 있다.
 
-![](/Jinha/imagesUI-Testing-in-Xcode-2.png)
+![](/Jinha/images/UI-Testing-in-Xcode-2.png)
