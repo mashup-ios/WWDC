@@ -11,7 +11,7 @@
 
 ||MON|TUE|WED|THU|FRI|SAT|SUN|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|가온|✅|✅|✅|✅|😩|||
+|가온|✅|✅|✅|✅|😩|✅||
 |진하|✅|😴|✅|✅|✅|||
 ||11.4|11.5|11.6|11.7|11.8|11.9|11.10|
 |가온|🥳|✅|✅|✅|✅|✅|✅|
@@ -33,6 +33,7 @@
 ||**Introducing Accelerate for Swift**|[주희 191105](Juhee/2019/Swift_Accelerate.md)|
 |Testing|**Testing in Xcode**|[진하 191028](Jinha/WWDC2019/Testing-in-Xcode.md)|
 |Performance|**Advances in App Background Execution**|[가온 191031](gaonK/WWDC19/AdvancesInAppBackgroundExecution.md)|
+||**Optimizing Storage in Your App**|[가온 191116](gaonK/WWDC19/OptimizingStorageInYourApp.md)|
 |UI Frameworks|**Implementing Dark Mode on iOS**|[주희 191031](Juhee/ImplementingDarkMode.md) [가온 191111](gaonK/WWDC19/ImplementingDarkModeOniOS.md)|
 ||**Architecting Your App for Multiple Windows**|[주희 191106](Juhee/2019/Architecting_Multiple_Windows.md)|
 |Debugging|**LLDB: Beyond "po"**|[가온 191101](gaonK/WWDC19/LLDBBeyondPo.md) [주희 191102](Juhee/2019/LLDB-Beyond-po.md)|
@@ -55,13 +56,13 @@
 |Debugging|**iOS Memory Deep Dive**|[가온 191110](gaonK/WWDC18/iOSMemoryDeepDive.md)|
 |Localization|**New Localization Workflows in Xcode 10**|[진하 191113](/Jinha/WWDC2018/New-Localization-Workflows-in-Xcode10.md)|
 
-
 ### WWDC17
 |Category|Title|👩🏻‍💻|
 |:-|--------|-------------------|
 |Testing|**What's New in Testing**|[진하 191105](/Jinha/WWDC2017/What-s-New-in-Testing.md)|
 |Interaction Design|**Writing Great Alerts**|[가온 191112](gaonK/WWDC17/WritingGreatAlerts.md)|
 |Xcode|**Localizing with Xcode 9**|[진하 191111](/Jinha/WWDC2017/Localizing-with-Xcode9.md)|
+
 ### WWDC16
 |Category|Title|👩🏻‍💻|
 |:-|--------|-------------------|
