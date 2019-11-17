@@ -12,7 +12,7 @@
 ||MON|TUE|WED|THU|FRI|SAT|SUN|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |가온|✅|✅|✅|✅|😩|✅|✅|
-|진하|✅|😴|✅|✅|✅|✅||
+|진하|✅|😴|✅|✅|✅|✅|✅|
 ||11.4|11.5|11.6|11.7|11.8|11.9|11.10|
 |가온|🥳|✅|✅|✅|✅|✅|✅|
 |진하|🥳|✅|✅|✅|✅|✅|✅|
@@ -69,6 +69,7 @@
 |:-|--------|-------------------|
 |Testing|**Advanced Testing and Continuous Integration**|[진하 191106](/Jinha/WWDC2016/Advanced-Testing-and-Continuous-Integration.md)|
 |Performance|**Concurrent Programming with GCD in Swift 3**|[가온 191108](gaonK/WWDC16/ConcurrentProgrammingWithGCDInSwift3.md)|
+|Localization|**Internationalization Best Practices**|[진하 191117](/Jinha/WWDC2016/Internationalization-Best-Practices.md)|
 
 ### WWDC15
 |Category|Title|👩🏻‍💻|
