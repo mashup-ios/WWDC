@@ -27,11 +27,9 @@
 
 ## Fundamentals
 
-![](/Jinha/images/Internationalization-Best-Practices-2.png)
-
-![](/Jinha/images/Internationalization-Best-Practices-3.png)
-
-![](/Jinha/images/Internationalization-Best-Practices-4.png)
+||||
+|-|-|-|
+|![](/Jinha/images/Internationalization-Best-Practices-2.png)|![](/Jinha/images/Internationalization-Best-Practices-3.png)|![](/Jinha/images/Internationalization-Best-Practices-4.png)|
 
 → Localized String, Formatted Strings, Layout 만 세팅 해 놓으면 언어 설정에 따라 자동으로 바뀐다.
 
