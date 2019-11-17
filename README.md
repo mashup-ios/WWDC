@@ -11,7 +11,7 @@
 
 ||MON|TUE|WED|THU|FRI|SAT|SUN|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|가온|✅|✅|✅|✅|😩|✅||
+|가온|✅|✅|✅|✅|😩|✅|✅|
 |진하|✅|😴|✅|✅|✅|✅||
 ||11.4|11.5|11.6|11.7|11.8|11.9|11.10|
 |가온|🥳|✅|✅|✅|✅|✅|✅|
@@ -40,6 +40,7 @@
 |Foundation|**Advances in Foundation**|[가온 191103](gaonK/WWDC19/AdvancesInFoundation.md)|
 |Accessibility|**Creating an Accessible Reading Experience**|[주희 191103](Juhee/2019/Creating_an_Accessible_Reading_Experience.md)|
 ||**Accessibility Inspector**|[진하 191114](/Jinha/WWDC2019/Accessibility-Inspector.md)|
+||**Making Apps More Accessible With Custom Actions**|[가온 191117](gaonK/WWDC19/MakingAppsMoreAccessibleWithCustomActions.md)|
 |Safari and Web|**Embedding and Sharing Visually Rich Links**|[가온 191107](gaonK/WWDC19/EmbeddingAndSharingVisuallyRichLinks.md) [주희 191107](Juhee/2019/Embedding%20and%20Sharing%20Visually%20Rich%20Links.md)|
 |AVKit|**Delivering Intuitive Media Playback with AVKit**|[주희 191110](Juhee/2019/Delivering_Media_Playback_AVKit.md)|
 |Xcode|**Getting Started with Xcode**|[가온 191114](gaonK/WWDC19/GettingStartedWithXcode.md)|
