@@ -13,7 +13,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 ||11.18|11.19|11.20|11.21|11.22|11.23|11.24|
 |가온||||||||
-|진하||||||||
+|진하|✅|||||||
 ||11.11|11.12|11.13|11.14|11.15|11.16|11.17|
 |가온|✅|✅|✅|✅|😩|✅|✅|
 |진하|✅|😴|✅|✅|✅|✅|✅|
@@ -49,6 +49,7 @@
 |AVKit|**Delivering Intuitive Media Playback with AVKit**|[주희 191110](Juhee/2019/Delivering_Media_Playback_AVKit.md)|
 |Xcode|**Getting Started with Xcode**|[가온 191114](gaonK/WWDC19/GettingStartedWithXcode.md)|
 |Localization|**Creating Great Localized Experiences with Xcode 11**|[진하 191115](/Jinha/WWDC2019/Creating-Great-Localized-Experiences-with-Xcode11.md)|
+|Networking|**What's New in Universal Links**|[진하 191118](/Jinha/WWDC2019/What-s-New-in-Universal-Links.md)|
 
 ### WWDC18
 |Category|Title|👩🏻‍💻|
