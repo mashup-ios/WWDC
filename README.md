@@ -13,7 +13,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 ||11.18|11.19|11.20|11.21|11.22|11.23|11.24|
 |가온|✅|✅||||||
-|진하|✅|✅||||||
+|진하|✅|✅|✅|||||
 ||11.11|11.12|11.13|11.14|11.15|11.16|11.17|
 |가온|✅|✅|✅|✅|😩|✅|✅|
 |진하|✅|😴|✅|✅|✅|✅|✅|
@@ -89,5 +89,5 @@
 |Cloud and Local Storage|**What's New in CloudKit**|[가온 191109](gaonK/WWDC15/WhatsNewInCloudKit.md)|
 |Testing|**Continuous Integration and Code Coverage in Xcode**|[진하 191110](/Jinha/WWDC2015/Continuous-Integration-and-Code-Coverage-in-Xcode.md)|
 ||**UI Testing in Xcode**|[진하 191116](/Jinha/WWDC2015/UI-Testing-in-Xcode.md)|
-
+|Safari and Web|**Seamless Linking to Your App**|[진하 191120](/Jinha/WWDC2015/Seamless-Linking-to-Your-App.md)|
 
