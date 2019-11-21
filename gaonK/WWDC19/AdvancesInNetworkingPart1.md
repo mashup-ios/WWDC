@@ -55,7 +55,7 @@
 
 ### Combine in URLSession
 
-13부터 나온 Combine을 어떻게 URLSession과 함께 쓰는지 데모와 함께 설명. Combine에 대해 좀 알고 봐야 이해가 가능하지만 대강 Rx 살짝 맛봤던 정도로 대강의 이해는 가능
+13부터 나온 Combine을 어떻게 URLSession과 함께 쓰는지 데모와 함께 설명. Combine에 대해 좀 알고 봐야 이해가 가능하지만 대강 Rx 살짝 맛봤던 정도로 이해 가능
 
 * Streamline networking code with Combine
 * Support retry
@@ -101,11 +101,11 @@ func adaptiveLoader(regularURL: URL, lowDataURL: URL) -> AnyPPublisher<Data, Err
 
 
 
-이번에 URlSessioon과 Network.framework에서 웹 소켓을 이용 가능하게 만들었다!
+이번에 URLSessioon과 Network.framework에서 웹 소켓을 이용 가능하게 만들었다!
 
 #### URLSessionWebSocketTask
 
-* Foundation APi for WebSocket
+* Foundation API for WebSocket
 * Works with existing URLSession
 
 ```swift
