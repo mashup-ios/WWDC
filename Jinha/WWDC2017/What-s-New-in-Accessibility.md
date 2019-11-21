@@ -7,9 +7,9 @@
 
 🔗 [What's New in Accessibility - WWDC 2017 - Videos - Apple Developer](https://developer.apple.com/videos/play/wwdc2017/215/)
 
-![](/Jinha/imagesWhat-s-New-in-Accessibilit-1.png)
+![](/Jinha/images/What-s-New-in-Accessibilit-1.png)
 
-![](/Jinha/imagesWhat-s-New-in-Accessibilit-2.png)
+![](/Jinha/images/What-s-New-in-Accessibilit-2.png)
 
 - Cognitive encompasses conditions like dyslexia  or autism
 - Motor examines the way in which a user physically interacts with the system, whether they need special accommodations for a conditions like Parkinson's or cerebral palsy.
@@ -18,33 +18,33 @@
 
 ### 🆕 New assistive features
 
-![](/Jinha/imagesWhat-s-New-in-Accessibilit-3.png)
+![](/Jinha/images/What-s-New-in-Accessibilit-3.png)
 
 > Basic text detection to try and figure out if there's text within that image and if it makes sense to speak it then we're going to speak to the user.
 
-![](/Jinha/imagesWhat-s-New-in-Accessibilit-4.png)
+![](/Jinha/images/What-s-New-in-Accessibilit-4.png)
 
 > Voice over says : "One face, one smiling, nightclub, blurry, bright
 
-![](/Jinha/imagesWhat-s-New-in-Accessibilit-5.png)
+![](/Jinha/images/What-s-New-in-Accessibilit-5.png)
 
 > Building Apps with Dynamic Type
 
-![](/Jinha/imagesWhat-s-New-in-Accessibilit-6.png)
+![](/Jinha/images/What-s-New-in-Accessibilit-6.png)
 
 > For users who have dexterity to use a trackpad, but can't necessarily use a physical keyboard. On screen keyboard that has things like system controls and a predictive text bar and fully customizable.
 
-![](/Jinha/imagesWhat-s-New-in-Accessibilit-7.png)
+![](/Jinha/images/What-s-New-in-Accessibilit-7.png)
 
 > Allows you to interact with Siri via text input like you would via speech. It's going to open up Siri to a class of users who are unable to use it before those who are nonverbal.
 
-![](/Jinha/imagesWhat-s-New-in-Accessibilit-8.png)
+![](/Jinha/images/What-s-New-in-Accessibilit-8.png)
 
 > Smart Invert Colors, which looks at specific kinds of content like graphics or images and doesn't invert them so that you can see the content as it was actually meant to be
 
 ### Accessibility API basics
 
-![](/Jinha/imagesWhat-s-New-in-Accessibilit-9.png)
+![](/Jinha/images/What-s-New-in-Accessibilit-9.png)
 
 **UIAccessibility Basics**
 
@@ -81,7 +81,7 @@
     memrotyView.accessibilityTraits |= UIAccessibilityTraitButton
 ```
 
-![](/Jinha/imagesWhat-s-New-in-Accessibilit-11.png)
+![](/Jinha/images/What-s-New-in-Accessibilit-11.png)
 ```Swift
     open var accessibilityValue: NSString?
     
@@ -96,10 +96,10 @@
 ```    	
 
 
-![](/Jinha/imagesWhat-s-New-in-Accessibilit-12.png)
+![](/Jinha/images/What-s-New-in-Accessibilit-12.png)
 
-![](/Jinha/imagesWhat-s-New-in-Accessibilit-13.png)
+![](/Jinha/images/What-s-New-in-Accessibilit-13.png)
 
-![](/Jinha/imagesWhat-s-New-in-Accessibilit-14.png)
+![](/Jinha/images/What-s-New-in-Accessibilit-14.png)
 
-![](/Jinha/imagesWhat-s-New-in-Accessibilit-15.png)
+![](/Jinha/images/What-s-New-in-Accessibilit-15.png)
