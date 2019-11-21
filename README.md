@@ -50,7 +50,7 @@
 |Xcode|**Getting Started with Xcode**|[가온 191114](gaonK/WWDC19/GettingStartedWithXcode.md)|
 |Localization|**Creating Great Localized Experiences with Xcode 11**|[진하 191115](/Jinha/WWDC2019/Creating-Great-Localized-Experiences-with-Xcode11.md)|
 |Networking|**What's New in Universal Links**|[진하 191118](/Jinha/WWDC2019/What-s-New-in-Universal-Links.md)|
-||**Advances in Networking, Part 1**|[가온 1911121](gaonK/WWDC19/AdvancesInNetworkingPart1.md|
+||**Advances in Networking, Part 1**|[가온 1911121](gaonK/WWDC19/AdvancesInNetworkingPart1.md)|
 
 ### WWDC18
 |Category|Title|👩🏻‍💻|
