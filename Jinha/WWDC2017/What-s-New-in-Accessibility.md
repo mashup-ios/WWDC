@@ -60,7 +60,7 @@
 
 ### UIAccessibility
 
-![](/Jinha/imagesWhat-s-New-in-Accessibilit-10.png)
+![](/Jinha/images/What-s-New-in-Accessibilit-10.png)
 
 ```Swift
     open var isAccessibilityElement: Bool
