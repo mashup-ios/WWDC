@@ -7,7 +7,7 @@
 
 🔗 [What's New in Accessibility - WWDC 2017 - Videos - Apple Developer](https://developer.apple.com/videos/play/wwdc2017/215/)
 
-![](/Jinha/images/What-s-New-in-Accessibilit-1.png)
+![](/Jinha/images/What-s-New-in-Accessibility-1.png)
 
 ![](/Jinha/images/What-s-New-in-Accessibilit-2.png)
 
