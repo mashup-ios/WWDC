@@ -12,7 +12,7 @@
 ||MON|TUE|WED|THU|FRI|SAT|SUN|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 ||11.18|11.19|11.20|11.21|11.22|11.23|11.24|
-|가온|✅|✅|🥺|✅||||
+|가온|✅|✅|🥺|✅|✅|||
 |진하|✅|✅|✅|✅||||
 ||11.11|11.12|11.13|11.14|11.15|11.16|11.17|
 |가온|✅|✅|✅|✅|😩|✅|✅|
@@ -70,7 +70,8 @@
 ||**Engineering for Testability**|[진하 191119](Jinha/WWDC2017/Engineering-for-Testability.md)|
 |Interaction Design|**Writing Great Alerts**|[가온 191112](gaonK/WWDC17/WritingGreatAlerts.md)|
 |Xcode|**Localizing with Xcode 9**|[진하 191111](/Jinha/WWDC2017/Localizing-with-Xcode9.md)|
-|Accessibility|**What's New in Accessibility**|[진하 191121](/Jinha/WWDC2017/What-s-New-in-Accessibility.md)
+|Accessibility|**What's New in Accessibility**|[진하 191121](/Jinha/WWDC2017/What-s-New-in-Accessibility.md)|
+|Performance|**Writing Energy Efficient Apps**|[가온 191122](gaonK/WWDC17/WritingEnergyEfficientApps.md)|
 
 ### WWDC16
 |Category|Title|👩🏻‍💻|
