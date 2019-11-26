@@ -289,18 +289,20 @@ This can be useful for applications that care very much about app size limits su
 
 - Optional `Int` can be stored inside `Any`
 - Force unwrapping is not performed
-
+```Swift
     func computeDangerously(_ b: Bool) -> Int { return b ? 3 : nil }
     func takesAnAny(_ x: Any) { print(x) }
     
     takesAnAny(computeDangerously(.random))
+```
 
 - Must force unwrap the result of the call
-
+```Swift
     func computeDangerously(_ b: Bool) -> Int { return b ? 3 : nil }
     func takesAnAny(_ x: Int) { print(x) }
     
     takesAnAny(computeDangerously(.random)!)
+```
 
 ## Enforcing Exclusive Access to Memory
 
