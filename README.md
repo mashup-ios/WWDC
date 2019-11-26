@@ -60,6 +60,7 @@
 |Category|Title|👩🏻‍💻|
 |:-|--------|-------------------|
 |Swift|**A Tour of UICollectionView**|[가온 191030](gaonK/WWDC18/ATourOfUICollectionView.md)|
+||**Using Collections Effectively**|[가온 191126](gaonK/WWDC18/UsingCollectionsEffectively.md)|
 ||**Swift Generics (Expanded)**|[가온 191105](gaonK/WWDC18/SwiftGenerics(Expanded).md)|
 ||**What's New in Swift**|[진하 191126](Jinha/WWDC2018/What-s-New-in-Swift.md)|
 |Testing|**Testing Tips & Tricks**|[진하 191031](/Jinha/WWDC2018/Testing-Tips-Tricks.md)|
