@@ -13,7 +13,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 ||11.25|11.26|11.27|11.28|11.29|11.30|12.01|
 |가온|🤯|||||||
-|진하|✅|||||||
+|진하|✅|✅||||||
 ||11.18|11.19|11.20|11.21|11.22|11.23|11.24|
 |가온|✅|✅|🥺|✅|✅|🏃🏻‍♀️|🏃🏻‍♂️|
 |진하|✅|✅|✅|✅|😴|🏃🏻‍♀️|🏃🏻‍♂️|
@@ -61,6 +61,7 @@
 |:-|--------|-------------------|
 |Swift|**A Tour of UICollectionView**|[가온 191030](gaonK/WWDC18/ATourOfUICollectionView.md)|
 ||**Swift Generics (Expanded)**|[가온 191105](gaonK/WWDC18/SwiftGenerics(Expanded).md)|
+||**What's New in Swift**|[진하 191126](Jinha/WWDC2018/What-s-New-in-Swift.md)|
 |Testing|**Testing Tips & Tricks**|[진하 191031](/Jinha/WWDC2018/Testing-Tips-Tricks.md)|
 ||**What's New in Testing**|[진하 191102](/Jinha/WWDC2018/What-s-New-in-Testing.md)|/Jinha/WWDC2018/What-s-New-in-Testing.md
 |Accessibility|**Accessible Drag and Drop**|[주희 191109](Juhee/2018/Accessible_Drag%26Drop.md)|
