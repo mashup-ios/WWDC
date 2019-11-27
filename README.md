@@ -12,7 +12,7 @@
 ||MON|TUE|WED|THU|FRI|SAT|SUN|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 ||11.25|11.26|11.27|11.28|11.29|11.30|12.01|
-|가온|🤯|✅||||||
+|가온|🤯|✅|✅|||||
 |진하|✅|✅|✅|||||
 ||11.18|11.19|11.20|11.21|11.22|11.23|11.24|
 |가온|✅|✅|🥺|✅|✅|🏃🏻‍♀️|🏃🏻‍♂️|
@@ -46,6 +46,7 @@
 ||**Architecting Your App for Multiple Windows**|[주희 191106](Juhee/2019/Architecting_Multiple_Windows.md)|
 |Debugging|**LLDB: Beyond "po"**|[가온 191101](gaonK/WWDC19/LLDBBeyondPo.md) [주희 191102](Juhee/2019/LLDB-Beyond-po.md)|
 |Foundation|**Advances in Foundation**|[가온 191103](gaonK/WWDC19/AdvancesInFoundation.md)|
+||**Introducing Combine**|[가온 191127](gaonK/WWDC19/IntroducingCombine.md)|
 |Accessibility|**Creating an Accessible Reading Experience**|[주희 191103](Juhee/2019/Creating_an_Accessible_Reading_Experience.md)|
 ||**Accessibility Inspector**|[진하 191114](/Jinha/WWDC2019/Accessibility-Inspector.md)|
 ||**Making Apps More Accessible With Custom Actions**|[가온 191117](gaonK/WWDC19/MakingAppsMoreAccessibleWithCustomActions.md)|
