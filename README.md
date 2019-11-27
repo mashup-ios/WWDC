@@ -13,7 +13,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 ||11.25|11.26|11.27|11.28|11.29|11.30|12.01|
 |가온|🤯|✅||||||
-|진하|✅|✅||||||
+|진하|✅|✅|✅|||||
 ||11.18|11.19|11.20|11.21|11.22|11.23|11.24|
 |가온|✅|✅|🥺|✅|✅|🏃🏻‍♀️|🏃🏻‍♂️|
 |진하|✅|✅|✅|✅|😴|🏃🏻‍♀️|🏃🏻‍♂️|
@@ -87,6 +87,7 @@
 |Localization|**Internationalization Best Practices**|[진하 191117](/Jinha/WWDC2016/Internationalization-Best-Practices.md)|
 |Video|**Advances in AVFoundation Playback**|[가온 191119](gaonK/WWDC16/AdvancesinAVFoundationPlayback.md)|
 |Swift|**What's New in Swift**|[진하 191125](Jinha/WWDC2016/What-s-New-in-Swift.md)|
+|Xcode|**Improving Existing Apps with Modern Best Practices**|[진하 191127](/Jinha/WWDC2016/Improving Existing Apps with Modern Best Practices.md)
 
 ### WWDC15
 |Category|Title|👩🏻‍💻|
