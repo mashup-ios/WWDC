@@ -12,7 +12,7 @@
 ||MON|TUE|WED|THU|FRI|SAT|SUN|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 ||11.25|11.26|11.27|11.28|11.29|11.30|12.01|
-|가온|🤯|✅|✅|❌|❌|||
+|가온|🤯|✅|✅|❌|❌|✅||
 |진하|✅|✅|✅|✅|🥳|||
 ||11.18|11.19|11.20|11.21|11.22|11.23|11.24|
 |가온|✅|✅|🥺|✅|✅|🏃🏻‍♀️|🏃🏻‍♂️|
@@ -43,7 +43,7 @@
 |Performance|**Advances in App Background Execution**|[가온 191031](gaonK/WWDC19/AdvancesInAppBackgroundExecution.md)|
 ||**Optimizing Storage in Your App**|[가온 191116](gaonK/WWDC19/OptimizingStorageInYourApp.md)|
 |UI Frameworks|**Implementing Dark Mode on iOS**|[주희 191031](Juhee/ImplementingDarkMode.md) [가온 191111](gaonK/WWDC19/ImplementingDarkModeOniOS.md)|
-||**Architecting Your App for Multiple Windows**|[주희 191106](Juhee/2019/Architecting_Multiple_Windows.md)|
+||**Architecting Your App for Multiple Windows**|[주희 191106](Juhee/2019/Architecting_Multiple_Windows.md) [가온 191130](gaonK/WWDC19/ArchitectingYourAppForMultipleWindows.md)|
 |Debugging|**LLDB: Beyond "po"**|[가온 191101](gaonK/WWDC19/LLDBBeyondPo.md) [주희 191102](Juhee/2019/LLDB-Beyond-po.md)|
 |Foundation|**Advances in Foundation**|[가온 191103](gaonK/WWDC19/AdvancesInFoundation.md)|
 ||**Introducing Combine**|[가온 191127](gaonK/WWDC19/IntroducingCombine.md)|
