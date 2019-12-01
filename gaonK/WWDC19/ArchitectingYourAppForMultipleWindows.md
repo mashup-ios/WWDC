@@ -1,4 +1,4 @@
-# [Architecting Your App for Multiple Windws](https://developer.apple.com/videos/play/wwdc2019/258/)
+# [Architecting Your App for Multiple Windows](https://developer.apple.com/videos/play/wwdc2019/258/)
 
 ### App Delegate Responsibilities
 
