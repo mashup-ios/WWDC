@@ -11,8 +11,11 @@
 
 ||MON|TUE|WED|THU|FRI|SAT|SUN|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+||12.02|12.03|12.04|12.05|12.06|12.07|12.08|
+|가온||||||||
+|진하||||||||
 ||11.25|11.26|11.27|11.28|11.29|11.30|12.01|
-|가온|🤯|✅|✅|❌|❌|✅||
+|가온|🤯|✅|✅|❌|❌|✅|✅|
 |진하|✅|✅|✅|✅|🥳|❌|✅|
 ||11.18|11.19|11.20|11.21|11.22|11.23|11.24|
 |가온|✅|✅|🥺|✅|✅|🏃🏻‍♀️|🏃🏻‍♂️|
@@ -104,4 +107,5 @@
 |Testing|**Continuous Integration and Code Coverage in Xcode**|[진하 191110](/Jinha/WWDC2015/Continuous-Integration-and-Code-Coverage-in-Xcode.md)|
 ||**UI Testing in Xcode**|[진하 191116](/Jinha/WWDC2015/UI-Testing-in-Xcode.md)|
 |Safari and Web|**Seamless Linking to Your App**|[진하 191120](/Jinha/WWDC2015/Seamless-Linking-to-Your-App.md)|
+|video|**Editing Movies in AV Foundation**|[가온 191201](gaonK/WWDC15/Editing%20Movies%20in%20AV%20Foundation.md)|
 
