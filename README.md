@@ -96,7 +96,7 @@
 |Localization|**Internationalization Best Practices**|[진하 191117](/Jinha/WWDC2016/Internationalization-Best-Practices.md)|
 |Video|**Advances in AVFoundation Playback**|[가온 191119](gaonK/WWDC16/AdvancesinAVFoundationPlayback.md)|
 |Swift|**What's New in Swift**|[진하 191125](Jinha/WWDC2016/What-s-New-in-Swift.md)|
-||**Protocol and Value Oriented Programming in UIKit**|[가온 191205](gaonK/WWDC16/Protocol%20and%20Value%20Oriented%20Programming%20in%20UIKit%20Apps.md)|
+||**Protocol and Value Oriented Programming in UIKit Apps**|[가온 191205](gaonK/WWDC16/Protocol%20and%20Value%20Oriented%20Programming%20in%20UIKit%20Apps.md)|
 |Xcode|**Improving Existing Apps with Modern Best Practices**|[진하 191127](/Jinha/WWDC2016/Improving-Existing-Apps-with-Modern-Best-Practices.md)|
 
 ### WWDC15
