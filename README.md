@@ -13,7 +13,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 ||12.02|12.03|12.04|12.05|12.06|12.07|12.08|
 |가온|🤯|✅|✅|||||
-|진하|✅|😴|✅|||||
+|진하|✅|😴|✅|✅||||
 ||11.25|11.26|11.27|11.28|11.29|11.30|12.01|
 |가온|🤯|✅|✅|❌|❌|✅|✅|
 |진하|✅|✅|✅|✅|🥳|❌|✅|
@@ -86,6 +86,7 @@
 |Performance|**Writing Energy Efficient Apps**|[가온 191122](gaonK/WWDC17/WritingEnergyEfficientApps.md)|
 |UI Frameworks|**Introducing Drag and Drop**|[가온 191203](gaonK/WWDC17/Introducing%20Drag%20and%20Drop.md)|
 ||**Drag and Drop with Collection and Table View**|[가온 191204](gaonK/WWDC17/Drag%20and%20Drop%20with%20Collection%20and%20Table%20View.md)|
+|App Store Connect|**What's New in iTunes Connect**|[진하 191205](Jinha/WWDC2017/What-s-New-in-iTunes-Connect.md)|
 
 ### WWDC16
 |Category|Title|👩🏻‍💻|
