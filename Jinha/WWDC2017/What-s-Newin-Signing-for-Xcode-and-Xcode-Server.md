@@ -8,7 +8,7 @@
 🔗 [What's New in Signing for Xcode and Xcode Server - WWDC 2017 - Videos - Apple Developer](https://developer.apple.com/videos/play/wwdc2017/403/)
 
 
-[](/Jinha/images/What-s-Newin-Signing-for-Xcode-and-Xcode-Server/Untitled.png)
+![](/Jinha/images/What-s-Newin-Signing-for-Xcode-and-Xcode-Server/Untitled.png)
 
 Making it possible to use automatic signing for distribution, Xcode Build, and Xcode Server.
 
@@ -18,7 +18,7 @@ Making it possible to use automatic signing for distribution, Xcode Build, and X
 - Authenticatews the app creator
 - Authoizes adccess to app services
 
-[](/Jinha/images/What-s-Newin-Signing-for-Xcode-and-Xcode-Server/Untitled1.png)
+![](/Jinha/images/What-s-Newin-Signing-for-Xcode-and-Xcode-Server/Untitled1.png)
 
 Every app has code signiture, and when the app is run, the system checks for a couple things.
 
@@ -26,7 +26,7 @@ Every app has code signiture, and when the app is run, the system checks for a c
 2. That app is allowed to use special system services, like App Groups.
 3. Also if it's been provisioned for this device. If it's for development, it's been provisioned for a couple of devices. And if it's for the App Store, that code signature says it can run on any device.
 
-[](/Jinha/images/What-s-Newin-Signing-for-Xcode-and-Xcode-Server/Untitled2.png)
+![](/Jinha/images/What-s-Newin-Signing-for-Xcode-and-Xcode-Server/Untitled2.png)
 
 Composing the signiture, Xcode uses 3 essential ingredients.
 
@@ -38,7 +38,7 @@ Composing the signiture, Xcode uses 3 essential ingredients.
 
 ### Automatic Signing
 
-[](/Jinha/images/What-s-Newin-Signing-for-Xcode-and-Xcode-Server/Untitled3.png)
+![](/Jinha/images/What-s-Newin-Signing-for-Xcode-and-Xcode-Server/Untitled3.png)
 
 → When enable automatically managed signing, Xcode will automatically 
 
@@ -50,7 +50,7 @@ Composing the signiture, Xcode uses 3 essential ingredients.
 🆕 in Xcode9, all of this great functionality is available in Xcode Server!
 (+ manual signing support)
 
-[](/Jinha/images/What-s-Newin-Signing-for-Xcode-and-Xcode-Server/Untitled4.png)
+![](/Jinha/images/What-s-Newin-Signing-for-Xcode-and-Xcode-Server/Untitled4.png)
 
 ### Xcode Server
 
@@ -58,11 +58,11 @@ Composing the signiture, Xcode uses 3 essential ingredients.
 - Built into Xcode
 - Runs your tests on simulators and devices
 
-[](/Jinha/images/What-s-Newin-Signing-for-Xcode-and-Xcode-Server/Untitled5.png)
+![](/Jinha/images/What-s-Newin-Signing-for-Xcode-and-Xcode-Server/Untitled5.png)
 
 In Xcode, you work on a project and upload updates to that project to a remote repository. Then, set up Xcode Server with a bot to pull from that respository. build your app, and run test on the device.
 
-[](/Jinha/images/What-s-Newin-Signing-for-Xcode-and-Xcode-Server/Untitled6.png)
+![](/Jinha/images/What-s-Newin-Signing-for-Xcode-and-Xcode-Server/Untitled6.png)
 
 Running on the device needs a code signature
 
@@ -101,5 +101,5 @@ Development signing
 - Machine code and bitcode
 - Debugging a symbols
 
-[](/Jinha/images/What-s-Newin-Signing-for-Xcode-and-Xcode-Server/Untitled7.png)
+![](/Jinha/images/What-s-Newin-Signing-for-Xcode-and-Xcode-Server/Untitled7.png)
 
