@@ -13,7 +13,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 ||12.02|12.03|12.04|12.05|12.06|12.07|12.08|
 |가온|🤯|✅|✅|✅|✅|❎|✅|
-|진하|✅|😴|✅|✅|❎|✅||
+|진하|✅|😴|✅|✅|❎|✅|✅|
 ||11.25|11.26|11.27|11.28|11.29|11.30|12.01|
 |가온|🤯|✅|✅|❌|❌|✅|✅|
 |진하|✅|✅|✅|✅|🥳|❌|✅|
@@ -74,7 +74,7 @@
 |Localization|**New Localization Workflows in Xcode 10**|[진하 191113](/Jinha/WWDC2018/New-Localization-Workflows-in-Xcode10.md)|
 |Performance|**Measuring Performance Using Logging**|[진하 191128](/Jinha/WWDC2018/Measuring-Performance-Using-Logging.md)|
 |Interface Builder|**Optimizing App Assets**|[진하 191201](/Jinha/WWDC2018/Optimizing-App-Assets.md)|
-
+|App Store Connect|**What's New in App Store Connect**|[진하 191208](/Jinha/WWDC2018/What-s-New-in-App-Store-Connect.md)|
 ### WWDC17
 |Category|Title|👩🏻‍💻|
 |:-|--------|-------------------|
