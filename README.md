@@ -13,7 +13,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 ||12.09|12.10|12.11|12.12|12.13|12.14|12.15|
 |가온||||||||
-|진하||||||||
+|진하|✅|||||||
 ||12.02|12.03|12.04|12.05|12.06|12.07|12.08|
 |가온|🤯|✅|✅|✅|✅|❎|✅|
 |진하|✅|😴|✅|✅|❎|✅|✅|
@@ -78,6 +78,7 @@
 |Performance|**Measuring Performance Using Logging**|[진하 191128](/Jinha/WWDC2018/Measuring-Performance-Using-Logging.md)|
 |Interface Builder|**Optimizing App Assets**|[진하 191201](/Jinha/WWDC2018/Optimizing-App-Assets.md)|
 |App Store Connect|**What's New in App Store Connect**|[진하 191208](/Jinha/WWDC2018/What-s-New-in-App-Store-Connect.md)|
+
 ### WWDC17
 |Category|Title|👩🏻‍💻|
 |:-|--------|-------------------|
@@ -89,8 +90,8 @@
 |Performance|**Writing Energy Efficient Apps**|[가온 191122](gaonK/WWDC17/WritingEnergyEfficientApps.md)|
 |UI Frameworks|**Introducing Drag and Drop**|[가온 191203](gaonK/WWDC17/Introducing%20Drag%20and%20Drop.md)|
 ||**Drag and Drop with Collection and Table View**|[가온 191204](gaonK/WWDC17/Drag%20and%20Drop%20with%20Collection%20and%20Table%20View.md)|
-|App Store Connect|**What's New in iTunes Connect**|[진하 191205](Jinha/WWDC2017/What-s-New-in-iTunes-Connect.md)|
 |Signing|**What's New in Signing for Xcode and Xcode Server**|[진하 191207](/Jinha/WWDC2017/What-s-Newin-Signing-for-Xcode-and-Xcode-Server.md)|
+|App Store Connect|**What's New in iTunes Connect**|[진하 191209](/Jinha/WWDC2017/What-s-New-in-iTunes-Connect.md)|
 
 ### WWDC16
 |Category|Title|👩🏻‍💻|
@@ -102,6 +103,7 @@
 |Swift|**What's New in Swift**|[진하 191125](Jinha/WWDC2016/What-s-New-in-Swift.md)|
 ||**Protocol and Value Oriented Programming in UIKit Apps**|[가온 191205](gaonK/WWDC16/Protocol%20and%20Value%20Oriented%20Programming%20in%20UIKit%20Apps.md)|
 |Xcode|**Improving Existing Apps with Modern Best Practices**|[진하 191127](/Jinha/WWDC2016/Improving-Existing-Apps-with-Modern-Best-Practices.md)|
+|App Store Connect|**What's New in iTunes Connect**|[진하 191205](/Jinha/WWDC2016/What-s-New-in-iTunes-Connect.md)|
 |Cloud and Local Storage|**What's New in Core Data**|[가온 191206](gaonK/WWDC16/What's%20New%20in%20Core%20Data.md)|
 
 ### WWDC15
