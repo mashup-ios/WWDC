@@ -9,7 +9,7 @@
 
 ## Ratings, revies, and responses
 
-![](/Jinha/images/What-s-New-in-iTunes-Connect.md/Untitled.png)
+![](/Jinha/images/What-s-New-in-iTunes-Connect/Untitled.png)
 
 Why customers write reviews in the first place
 
@@ -19,7 +19,7 @@ Why customers write reviews in the first place
 
 → Finally, customers often take to reviews to let us know about bugs or crashes in our apps.
 
-![](/Jinha/images/What-s-New-in-iTunes-Connect.md/Untitled1.png)
+![](/Jinha/images/What-s-New-in-iTunes-Connect/Untitled1.png)
 
 Every review only has onew response. So customer can update the review as much as they like and you can update your reponse as often as you'd like, but this is not a threaded conversation. One paring per customer.
 
@@ -48,13 +48,13 @@ Every review only has onew response. So customer can update the review as much a
 
 ### Features
 
-![](/Jinha/images/What-s-New-in-iTunes-Connect.md/Untitled2.png)
+![](/Jinha/images/What-s-New-in-iTunes-Connect/Untitled2.png)
 
-![](/Jinha/images/What-s-New-in-iTunes-Connect.md/Untitled3.png)
+![](/Jinha/images/What-s-New-in-iTunes-Connect/Untitled3.png)
 
 ### Groups for Development Cycle
 
-![](/Jinha/images/What-s-New-in-iTunes-Connect.md/Untitled4.png)
+![](/Jinha/images/What-s-New-in-iTunes-Connect/Untitled4.png)
 
 Alpha - push frequent builds to "aplha" group
 
@@ -106,23 +106,23 @@ iOS11, Xcode9, no longer be managing app icon in iTunes Connect. Instead, includ
 
 **Product page**
 
-![](/Jinha/images/What-s-New-in-iTunes-Connect.md/Untitled5.png)
+![](/Jinha/images/What-s-New-in-iTunes-Connect/Untitled5.png)
 
 Promoted In-App purchases broken up in 2 distinct list. Subscriptions & In-App Purchases.
 
 Can customize the order and visibility of promoted in-app purchases as they appear on product page. Can hide subscriptions the user already has purchased on the device or show the most relevant list.
 
-![](/Jinha/images/What-s-New-in-iTunes-Connect.md/Untitled6.png)
+![](/Jinha/images/What-s-New-in-iTunes-Connect/Untitled6.png)
 
 Can search by the name or description of promoted in-app purchases and see some results.
 
-![](/Jinha/images/What-s-New-in-iTunes-Connect.md/Untitled7.png)
+![](/Jinha/images/What-s-New-in-iTunes-Connect/Untitled7.png)
 
 Eligible to featured by the App Store editorial team. App could be featured on the "today" apps or games tab.
 
 What developer need to do to implement and make an in-app purchase a promoted?
 
-![](/Jinha/images/What-s-New-in-iTunes-Connect.md/Untitled8.png)
+![](/Jinha/images/What-s-New-in-iTunes-Connect/Untitled8.png)
 
 The first two of which are managed in iTunes Connect, but critically you must define some promotional data for your promoted in-app purchase. → image, name, description
 
@@ -134,9 +134,9 @@ Need to implement some StoreKit APIs. Single delegate method on the `SKPaymentTr
 
 > Related: What's New in StoreKit
 
-![](/Jinha/images/What-s-New-in-iTunes-Connect.md/Untitled9.png)
+![](/Jinha/images/What-s-New-in-iTunes-Connect/Untitled9.png)
 
-![](/Jinha/images/What-s-New-in-iTunes-Connect.md/Untitled10.png)
+![](/Jinha/images/What-s-New-in-iTunes-Connect/Untitled10.png)
 
 → **This must be reviewed, even though our Pro Subscription in-app purchases is already approved and ready for sale.**
 
@@ -156,9 +156,9 @@ Production is always a unique environment, no matter how much testing you've don
 - Users with automatic update enabled
 - Seven-day delivery period
 
-![](/Jinha/images/What-s-New-in-iTunes-Connect.md/Untitled11.png)
+![](/Jinha/images/What-s-New-in-iTunes-Connect/Untitled11.png)
 
-![](/Jinha/images/What-s-New-in-iTunes-Connect.md/Untitled12.png)
+![](/Jinha/images/What-s-New-in-iTunes-Connect/Untitled12.png)
 
 ## App Review
 
