@@ -13,7 +13,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 ||12.09|12.10|12.11|12.12|12.13|12.14|12.15|
 |가온|✅|||||||
-|진하|✅|||||||
+|진하|✅|✅||||||
 ||12.02|12.03|12.04|12.05|12.06|12.07|12.08|
 |가온|🤯|✅|✅|✅|✅|❎|✅|
 |진하|✅|😴|✅|✅|❎|✅|✅|
@@ -92,6 +92,7 @@
 ||**Drag and Drop with Collection and Table View**|[가온 191204](gaonK/WWDC17/Drag%20and%20Drop%20with%20Collection%20and%20Table%20View.md)|
 |Signing|**What's New in Signing for Xcode and Xcode Server**|[진하 191207](/Jinha/WWDC2017/What-s-Newin-Signing-for-Xcode-and-Xcode-Server.md)|
 |App Store Connect|**What's New in iTunes Connect**|[진하 191209](/Jinha/WWDC2017/What-s-New-in-iTunes-Connect.md)|
+||**What's New in StoreKit**|[진하 191210](/Jinha/WWDC2017/What-s-New-in-StoreKit.md)|
 
 ### WWDC16
 |Category|Title|👩🏻‍💻|
