@@ -6,7 +6,7 @@
 
 🔗 [What's New in App Store Connect - WWDC 2019 - Videos - Apple Developer](https://developer.apple.com/videos/play/wwdc2019/301/)
 
-![](/Jinha/imagesWhat-s-New-in-App-Store-Connect/WWDC2019/Untitled.png)
+![](/Jinha/images/What-s-New-in-App-Store-Connect/WWDC2019/Untitled.png)
 
 ### App Upload
 
@@ -14,7 +14,7 @@ Application Loader will no longer be included. dedicate
 
 ### 🆕 Transporter
 
-![](/Jinha/imagesWhat-s-New-in-App-Store-Connect/WWDC2019/Untitled1.png)
+![](/Jinha/images/What-s-New-in-App-Store-Connect/WWDC2019/Untitled1.png)
 
 How to use Transporter?
 
@@ -23,9 +23,9 @@ How to use Transporter?
 3. Select files that you want to deliver
 4. Take your IPA that exported from Xcode, drag it over Transporter and drop.
 
-![](/Jinha/imagesWhat-s-New-in-App-Store-Connect/WWDC2019/Untitled2.png)
+![](/Jinha/images/What-s-New-in-App-Store-Connect/WWDC2019/Untitled2.png)
 
-![](/Jinha/imagesWhat-s-New-in-App-Store-Connect/WWDC2019/Untitled3.png)
+![](/Jinha/images/What-s-New-in-App-Store-Connect/WWDC2019/Untitled3.png)
 
 **Email enhancement**
 
@@ -33,7 +33,7 @@ How to use Transporter?
 - Additional context to help you quickly understand the problem.
 - Added numeric codes for each error.
 
-![](/Jinha/imagesWhat-s-New-in-App-Store-Connect/WWDC2019/Untitled4.png)
+![](/Jinha/images/What-s-New-in-App-Store-Connect/WWDC2019/Untitled4.png)
 
 **Build Activity**
 
@@ -43,7 +43,7 @@ New notification type → Build Processing Changes
 
 ## TestFlight Update
 
-![](/Jinha/imagesWhat-s-New-in-App-Store-Connect/WWDC2019/Untitled5.png)
+![](/Jinha/images/What-s-New-in-App-Store-Connect/WWDC2019/Untitled5.png)
 
 ### 🆕 TestFlight Feedback
 
@@ -59,7 +59,7 @@ New notification type → Build Processing Changes
 - Download feedback
 - Disable tester feedback
 
-![](/Jinha/imagesWhat-s-New-in-App-Store-Connect/WWDC2019/Untitled6.png)
+![](/Jinha/images/What-s-New-in-App-Store-Connect/WWDC2019/Untitled6.png)
 
 [https://developer.apple.com/download/](https://developer.apple.com/download/)
 
@@ -120,8 +120,8 @@ total amount billed through purchases
 
 Number of time your app is uninstalled from customers' devices.
 
-![](/Jinha/imagesWhat-s-New-in-App-Store-Connect/WWDC2019/Untitled7.png)
+![](/Jinha/images/What-s-New-in-App-Store-Connect/WWDC2019/Untitled7.png)
 
 ### 🆕 Last 24 Hours
 
-![](/Jinha/imagesWhat-s-New-in-App-Store-Connect/WWDC2019/Untitled8.png)
+![](/Jinha/images/What-s-New-in-App-Store-Connect/WWDC2019/Untitled8.png)
