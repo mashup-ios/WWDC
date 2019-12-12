@@ -13,7 +13,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 ||12.09|12.10|12.11|12.12|12.13|12.14|12.15|
 |가온|✅|✅|🤯|||||
-|진하|✅|✅|✅|||||
+|진하|✅|✅|✅|✅||||
 ||12.02|12.03|12.04|12.05|12.06|12.07|12.08|
 |가온|🤯|✅|✅|✅|✅|❎|✅|
 |진하|✅|😴|✅|✅|❎|✅|✅|
@@ -63,6 +63,7 @@
 |Networking|**What's New in Universal Links**|[진하 191118](/Jinha/WWDC2019/What-s-New-in-Universal-Links.md)|
 ||**Advances in Networking, Part 1**|[가온 191121](gaonK/WWDC19/AdvancesInNetworkingPart1.md)|
 |App Store Connect|**What's New in App Store Connect**|[진하 191211](/Jinha/WWDC2019/What-s-New-in-App-Store-Connect.md)|
+|Design|**What's New in iOS Design**|[진하 191212](/Jinha/WWDC2019/What-s-New-in-iOS-Design.md)|
 
 ### WWDC18
 |Category|Title|👩🏻‍💻|
