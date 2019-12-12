@@ -6,6 +6,12 @@
 
 🔗 [What's New in App Store Connect - WWDC 2019 - Videos - Apple Developer](https://developer.apple.com/videos/play/wwdc2019/301/)
 
+![](/Jinha/images/What-s-New-in-App-Store-Connect/WWDC2019/Untitled0.png)
+
+App Store Connect, TestFlight support WatchOS.
+Discover app on Watch in App Store.
+
+
 ![](/Jinha/images/What-s-New-in-App-Store-Connect/WWDC2019/Untitled.png)
 
 ### App Upload
