@@ -12,7 +12,7 @@
 ||MON|TUE|WED|THU|FRI|SAT|SUN|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 ||12.09|12.10|12.11|12.12|12.13|12.14|12.15|
-|가온|✅|✅|🤯|❎||||
+|가온|✅|✅|🤯|❎|✅|||
 |진하|✅|✅|✅|✅||||
 ||12.02|12.03|12.04|12.05|12.06|12.07|12.08|
 |가온|🤯|✅|✅|✅|✅|❎|✅|
@@ -71,7 +71,7 @@
 |Swift|**A Tour of UICollectionView**|[가온 191030](gaonK/WWDC18/ATourOfUICollectionView.md)|
 ||**Using Collections Effectively**|[가온 191126](gaonK/WWDC18/UsingCollectionsEffectively.md)|
 ||**Swift Generics (Expanded)**|[가온 191105](gaonK/WWDC18/SwiftGenerics(Expanded).md)|
-||**What's New in Swift**|[진하 191126](Jinha/WWDC2018/What-s-New-in-Swift.md)|
+||**What's New in Swift**|[진하 191126](Jinha/WWDC2018/What-s-New-in-Swift.md) [가온 191213](gaonK/WWDC18/What's%20New%20in%20Swift.md)|
 |Testing|**Testing Tips & Tricks**|[진하 191031](/Jinha/WWDC2018/Testing-Tips-Tricks.md)|
 ||**What's New in Testing**|[진하 191102](/Jinha/WWDC2018/What-s-New-in-Testing.md)|/Jinha/WWDC2018/What-s-New-in-Testing.md
 |Accessibility|**Accessible Drag and Drop**|[주희 191109](Juhee/2018/Accessible_Drag%26Drop.md)|
