@@ -68,7 +68,7 @@
 
    ```swift
    let customDynamicType: [String: (pointSize: CGFloat, styleName: String, leading: CGFloat,  tracking: CGFloat)] = [
-     UIContentSizeCategoryExtraSmall: (10.0, "Heavy", 3.0, 0.6),
+    UIContentSizeCategoryExtraSmall: (10.0, "Heavy", 3.0, 0.6),
    	UIContentSizeCategorySmall: (12.0, "Heavy", 2.0, 0.4), 
    	UIContentSizeCategoryMedium: (14.0, "Roman", 1.0, 0.2),
    	UIContentSizeCategoryLarge: (16.0, "Roman", 0.0, 0.0), 
