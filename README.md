@@ -13,7 +13,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 ||12.09|12.10|12.11|12.12|12.13|12.14|12.15|
 |가온|✅|✅|🤯|❎|✅|✅||
-|진하|✅|✅|✅|✅|🥳|||
+|진하|✅|✅|✅|✅|🥳|❎|✅|
 ||12.02|12.03|12.04|12.05|12.06|12.07|12.08|
 |가온|🤯|✅|✅|✅|✅|❎|✅|
 |진하|✅|😴|✅|✅|❎|✅|✅|
@@ -106,6 +106,7 @@
 |Swift|**What's New in Swift**|[진하 191125](Jinha/WWDC2016/What-s-New-in-Swift.md)|
 ||**Protocol and Value Oriented Programming in UIKit Apps**|[가온 191205](gaonK/WWDC16/Protocol%20and%20Value%20Oriented%20Programming%20in%20UIKit%20Apps.md)|
 ||**Understanding Swift Performance**|[가온 191210](gaonK/WWDC16/Understanding%20Swift%20Performance.md)|
+||**Protocol and Value Oriented Programming in UIKit Apps**|[진하 191215](/Jinha/WWDC2016/Protocol-and-Value-Oriented-Programming-in-UIKit-APPS.md)|
 |Xcode|**Improving Existing Apps with Modern Best Practices**|[진하 191127](/Jinha/WWDC2016/Improving-Existing-Apps-with-Modern-Best-Practices.md)|
 |App Store Connect|**What's New in iTunes Connect**|[진하 191205](/Jinha/WWDC2016/What-s-New-in-iTunes-Connect.md)|
 |Cloud and Local Storage|**What's New in Core Data**|[가온 191206](gaonK/WWDC16/What's%20New%20in%20Core%20Data.md)|
