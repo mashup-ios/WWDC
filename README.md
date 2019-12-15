@@ -104,9 +104,8 @@
 |Localization|**Internationalization Best Practices**|[진하 191117](/Jinha/WWDC2016/Internationalization-Best-Practices.md)|
 |Video|**Advances in AVFoundation Playback**|[가온 191119](gaonK/WWDC16/AdvancesinAVFoundationPlayback.md)|
 |Swift|**What's New in Swift**|[진하 191125](Jinha/WWDC2016/What-s-New-in-Swift.md)|
-||**Protocol and Value Oriented Programming in UIKit Apps**|[가온 191205](gaonK/WWDC16/Protocol%20and%20Value%20Oriented%20Programming%20in%20UIKit%20Apps.md)|
+||**Protocol and Value Oriented Programming in UIKit Apps**|[가온 191205](gaonK/WWDC16/Protocol%20and%20Value%20Oriented%20Programming%20in%20UIKit%20Apps.md) [진하 191215](/Jinha/WWDC2016/Protocol-and-Value-Oriented-Programming-in-UIKit-APPS.md)|
 ||**Understanding Swift Performance**|[가온 191210](gaonK/WWDC16/Understanding%20Swift%20Performance.md)|
-||**Protocol and Value Oriented Programming in UIKit Apps**|[진하 191215](/Jinha/WWDC2016/Protocol-and-Value-Oriented-Programming-in-UIKit-APPS.md)|
 |Xcode|**Improving Existing Apps with Modern Best Practices**|[진하 191127](/Jinha/WWDC2016/Improving-Existing-Apps-with-Modern-Best-Practices.md)|
 |App Store Connect|**What's New in iTunes Connect**|[진하 191205](/Jinha/WWDC2016/What-s-New-in-iTunes-Connect.md)|
 |Cloud and Local Storage|**What's New in Core Data**|[가온 191206](gaonK/WWDC16/What's%20New%20in%20Core%20Data.md)|
