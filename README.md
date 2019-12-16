@@ -13,7 +13,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 ||12.16|12.17|12.18|12.19|12.20|12.21|12.22|
 |가온|✅|||||||
-|진하||||||||
+|진하|✅|||||||
 ||12.09|12.10|12.11|12.12|12.13|12.14|12.15|
 |가온|✅|✅|🤯|❎|✅|✅|✅|
 |진하|✅|✅|✅|✅|🥳|❎|✅|
@@ -131,3 +131,4 @@
 |Video|**Editing Movies in AV Foundation**|[가온 191201](gaonK/WWDC15/Editing%20Movies%20in%20AV%20Foundation.md)|
 |App Store Connect|**What's New in iTunes Connect**|[진하 191202](/Jinha/WWDC2015/What-s-New-in-iTunes-Connect.md)
 |Xcode|**App Thinning in Xcode**|[진하 191204](/Jinha/WWDC2015/App-Thinning-in-Xcode.md)|
+|Performance|**Optimizing Swift Performance**|[진하 191216](/Jinha/WWDC2015/Optimizing-Swift-Performance.md)|
