@@ -212,4 +212,4 @@ But in Swift, the compiler has more information. It's able to see all the certai
 - Write your APIs and code with performance in mind
 - Profile your application with Instruments
 
-## Using Instruments to analyze the performance of Swift programs
+
