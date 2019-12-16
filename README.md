@@ -128,6 +128,6 @@
 |Testing|**Continuous Integration and Code Coverage in Xcode**|[진하 191110](/Jinha/WWDC2015/Continuous-Integration-and-Code-Coverage-in-Xcode.md)|
 ||**UI Testing in Xcode**|[진하 191116](/Jinha/WWDC2015/UI-Testing-in-Xcode.md)|
 |Safari and Web|**Seamless Linking to Your App**|[진하 191120](/Jinha/WWDC2015/Seamless-Linking-to-Your-App.md)|
-|video|**Editing Movies in AV Foundation**|[가온 191201](gaonK/WWDC15/Editing%20Movies%20in%20AV%20Foundation.md)|
+|Video|**Editing Movies in AV Foundation**|[가온 191201](gaonK/WWDC15/Editing%20Movies%20in%20AV%20Foundation.md)|
 |App Store Connect|**What's New in iTunes Connect**|[진하 191202](/Jinha/WWDC2015/What-s-New-in-iTunes-Connect.md)
 |Xcode|**App Thinning in Xcode**|[진하 191204](/Jinha/WWDC2015/App-Thinning-in-Xcode.md)|
