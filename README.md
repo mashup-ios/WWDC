@@ -12,7 +12,7 @@
 ||MON|TUE|WED|THU|FRI|SAT|SUN|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 ||12.16|12.17|12.18|12.19|12.20|12.21|12.22|
-|가온||||||||
+|가온|✅|||||||
 |진하||||||||
 ||12.09|12.10|12.11|12.12|12.13|12.14|12.15|
 |가온|✅|✅|🤯|❎|✅|✅|✅|
@@ -46,7 +46,7 @@
 |:-|--------|-------------------|
 |Swift|**What's New in Swift**|[가온 191028](gaonK/WWDC19/WhatsNewInSwift.md) [진하 191103](Jinha/WWDC2019/What-s-New-in-Swift.md)|
 ||**Modern Swift API Design**|[가온 191029](gaonK/WWDC19/ModernSwiftAPIDesign.md)|
-||**Great Developer Habits**|[주희 191104](Juhee/2019/Great_Developer_Habits.md)
+||**Great Developer Habits**|[주희 191104](Juhee/2019/Great_Developer_Habits.md) [가온 191216](gaonK/WWDC19/Great%20Developer%20Habits.md)|
 ||**Introducing Accelerate for Swift**|[주희 191105](Juhee/2019/Swift_Accelerate.md) [가온 191208](gaonK/WWDC19/Introducing%20Accelerate%20for%20Swift.md)|
 |Testing|**Testing in Xcode**|[진하 191028](Jinha/WWDC2019/Testing-in-Xcode.md)|
 |Performance|**Advances in App Background Execution**|[가온 191031](gaonK/WWDC19/AdvancesInAppBackgroundExecution.md)|
