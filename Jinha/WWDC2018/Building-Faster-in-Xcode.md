@@ -4,7 +4,9 @@
 >  WWDC2018 | Session : 408 | Category : Performance
 
 
+
 🔗 [Building Faster in Xcode - WWDC 2018 - Videos - Apple Developer](https://developer.apple.com/videos/play/wwdc2018/408/?time=1130)
+
 
 
 ## Parallelizing Your Build
@@ -28,7 +30,7 @@ Xcode configure your projects through the use of targets. And targets specify th
 
 ![](/Jinha/images/Building-Faster-in-Xcode/Untitled.png)
 
-![](/Jinha/images/Building-Faster-in-Xcode/Untitled1.png)
+![](/Jinha/images/Building-Faster-in-Xcode/Untitled-1.png)
 
 Each of these targets are building in in order, sequentially. And they each have to wait until the previous target is done building.
 
@@ -36,25 +38,25 @@ Each of these targets are building in in order, sequentially. And they each have
 
 **Parallelized Build Timeline**
 
-![](/Jinha/images/Building-Faster-in-Xcode/Untitled2.png)
+![](/Jinha/images/Building-Faster-in-Xcode/Untitled-2.png)
 
 How do we get from the long, serialized build timeline to the better parallelized build time?
 
-![](/Jinha/images/Building-Faster-in-Xcode/Untitled3.png)
+![](/Jinha/images/Building-Faster-in-Xcode/Untitled-3.png)
 
 Scheme Editor → Edit Scheme → Build Action → Build Options → Parallelize Build
 
-![](/Jinha/images/Building-Faster-in-Xcode/Untitled4.png)
+![](/Jinha/images/Building-Faster-in-Xcode/Untitled-4.png)
 
 ### Examine Tests Dependencies
 
 "Do Everything'
 
-![](/Jinha/images/Building-Faster-in-Xcode/Untitled5.png)
+![](/Jinha/images/Building-Faster-in-Xcode/Untitled-5.png)
 
 This testing way too many components. It's better to simply break up our tests so that it's testing each individual component.
 
-![](/Jinha/images/Building-Faster-in-Xcode/Untitled6.png)
+![](/Jinha/images/Building-Faster-in-Xcode/Untitled-6.png)
 
 They can built as soon as their respective components are done,  
 
@@ -64,9 +66,9 @@ They can built as soon as their respective components are done,
 
 "Nosy Neighbors"
 
-![](/Jinha/images/Building-Faster-in-Xcode/Untitled7.png)
+![](/Jinha/images/Building-Faster-in-Xcode/Untitled-7.png)
 
-![](/Jinha/images/Building-Faster-in-Xcode/Untitled8.png)
+![](/Jinha/images/Building-Faster-in-Xcode/Untitled-8.png)
 
 Shaders taraget produces a meta library, which is essentially just a bundle of GPU code that's going to run on our graphics card.
 
@@ -76,11 +78,11 @@ So there's already a little bit of suspect depedency here.
 
 Utitilites target actually has a build phase in it that's genrating some inforation that's used by both targets.
 
-![](/Jinha/images/Building-Faster-in-Xcode/Untitled9.png)
+![](/Jinha/images/Building-Faster-in-Xcode/Untitled-9.png)
 
 So it's best to break out that into its own target. And we're going to see that this small incremental change actually has a large and significant impact on our overall build timeline.
 
-![](/Jinha/images/Building-Faster-in-Xcode/Untitled10.png)
+![](/Jinha/images/Building-Faster-in-Xcode/Untitled-10.png)
 
 So new green box that just moved in is our new code target.
 
@@ -96,23 +98,23 @@ It can also be built in parallel with our Physics target, which is the red box o
 
 "Forgotten Ones"
 
-![](/Jinha/images/Building-Faster-in-Xcode/Untitled11.png)
+![](/Jinha/images/Building-Faster-in-Xcode/Untitled-11.png)
 
 Throughout the evolution or the lifecycle of our products and our code, we tend to move code around and delete things. And we get things like dead code.
 
 We get the same thing that happens with our dependencies. Sometimes we simply forget to clean them up.
 
-![](/Jinha/images/Building-Faster-in-Xcode/Untitled12.png)
+![](/Jinha/images/Building-Faster-in-Xcode/Untitled-12.png)
 
 So in these cases, it's actually safe to just remove that dependency
 
-![](/Jinha/images/Building-Faster-in-Xcode/Untitled13.png)
+![](/Jinha/images/Building-Faster-in-Xcode/Untitled-13.png)
 
 And this last change tightens up or build graph even further by allowing the Utilities target to be built right after the CodeGen target instead of having to wait for all of the Physics target to be done.
 
 ### 🆕 Parallelized Target Build Process
 
-![](/Jinha/images/Building-Faster-in-Xcode/Untitled14.png)
+![](/Jinha/images/Building-Faster-in-Xcode/Untitled-14.png)
 
 ## Run Script Phases
 
@@ -124,7 +126,7 @@ Run script phases allow you to customize your build process to meet your needs.
 
 Build Phases
 
-![](/Jinha/images/Building-Faster-in-Xcode/Untitled15.png)
+![](/Jinha/images/Building-Faster-in-Xcode/Untitled-15.png)
 
 - Script Body
 
@@ -134,7 +136,7 @@ Throughout the entirely of your run script phase, there are a set of build setti
 
 This gives you a convenient way to not have to provide absolute paths or try to do some relative path hacks to get your stuff work
 
-![](/Jinha/images/Building-Faster-in-Xcode/Untitled16.png)
+![](/Jinha/images/Building-Faster-in-Xcode/Untitled-16.png)
 
 - Input Files
 
@@ -142,21 +144,21 @@ As this is one of the key pieces of information that the Xcode Build System will
 
 So this should include any file that your run script phase, the script content, is actually going to read or look at during its process.
 
-![](/Jinha/images/Building-Faster-in-Xcode/Untitled17.png)
+![](/Jinha/images/Building-Faster-in-Xcode/Untitled-17.png)
 
 - File Lists
 
 Some of you may have a lot of inputs into your run script phase. So this task might seem a little bit daunting. Xcode 10 provide you the ability to maintain this list in an external file.
 
-![](/Jinha/images/Building-Faster-in-Xcode/Untitled18.png)
+![](/Jinha/images/Building-Faster-in-Xcode/Untitled-18.png)
 
-![](/Jinha/images/Building-Faster-in-Xcode/Untitled19.png)
+![](/Jinha/images/Building-Faster-in-Xcode/Untitled-19.png)
 
 - Output Files
 
 Output files are another key piece of information that's used throughout your build process. Xcode will use this information to determine if your run script phase actually needs to run.
 
-![](/Jinha/images/Building-Faster-in-Xcode/Untitled20.png)
+![](/Jinha/images/Building-Faster-in-Xcode/Untitled-20.png)
 
 - Output File Lists
 
@@ -173,7 +175,7 @@ It's important to declare your inputs
 > Remove this build time workaround...
 Reducing the work on rebuilds
 
-![](/Jinha/images/Building-Faster-in-Xcode/Untitled21.png)
+![](/Jinha/images/Building-Faster-in-Xcode/Untitled-21.png)
 Previous version of Xcode, for some projects, turning on the Whole Module Compilation mode, even for debug builds, produced a faster overall build than when used in Default Incremental Modes.
 
 And this improve build time because Swift's compiler was able to share work across files in a way that the Incremental Mode was not.
@@ -236,7 +238,7 @@ We already know that this callback for reduce is going to be operating just on o
 
 ### Use `AnyObject` Methods and Properties Sparingly
 
-![](/Jinha/images/Building-Faster-in-Xcode/Untitled22.png)
+![](/Jinha/images/Building-Faster-in-Xcode/Untitled-22.png)
 
 `AnyObject` is convenient type that describes any class instance.
 
@@ -261,9 +263,9 @@ However this does come at a cost. Because compiler doen't know which method you'
 
 > Reducing the work on rebuilds
 
-![](/Jinha/images/Building-Faster-in-Xcode/Untitled23.png)
+![](/Jinha/images/Building-Faster-in-Xcode/Untitled-23.png)
 
-![](/Jinha/images/Building-Faster-in-Xcode/Untitled24.png)
+![](/Jinha/images/Building-Faster-in-Xcode/Untitled-24.png)
 
 ### Swift Dependency Rules
 
@@ -276,37 +278,37 @@ However this does come at a cost. Because compiler doen't know which method you'
 
 > Reducing the work on rebuilds
 
-![](/Jinha/images/Building-Faster-in-Xcode/Untitled25.png)
+![](/Jinha/images/Building-Faster-in-Xcode/Untitled-25.png)
 
 If we can shrink the content in these header, then we know that there's fewer chances for things to change, therefore less need to rebuild.
 
-![](/Jinha/images/Building-Faster-in-Xcode/Untitled26.png)
+![](/Jinha/images/Building-Faster-in-Xcode/Untitled-26.png)
 
 If you don't need to expose these interacting with Interface Builder, markk these `private` and watch as property and method vanish from the generated header.
 
-![](/Jinha/images/Building-Faster-in-Xcode/Untitled27.png)
+![](/Jinha/images/Building-Faster-in-Xcode/Untitled-27.png)
 
 When you migrate so Swift 4 to keep on a rule fro Swift 3 which eposes internal methods and properies to Objetive-C automatically on any subclass of NSObject/
 
-![](/Jinha/images/Building-Faster-in-Xcode/Untitled28.png)
+![](/Jinha/images/Building-Faster-in-Xcode/Untitled-28.png)
 
 This will only be inferred for methods and properties that satisfy protocol requirements or those that override methods that com from Objective-C.
 
-![](/Jinha/images/Building-Faster-in-Xcode/Untitled29.png)
+![](/Jinha/images/Building-Faster-in-Xcode/Untitled-29.png)
 
-![](/Jinha/images/Building-Faster-in-Xcode/Untitled30.png)
+![](/Jinha/images/Building-Faster-in-Xcode/Untitled-30.png)
 
 This means that if any of these headers change, the Swift cod in your target has to be recompile because it might depend on something that changed.
 
 **→ Use categories to break up your interface**
 
-![](/Jinha/images/Building-Faster-in-Xcode/Untitled31.png)
+![](/Jinha/images/Building-Faster-in-Xcode/Untitled-31.png)
 
-![](/Jinha/images/Building-Faster-in-Xcode/Untitled32.png)
+![](/Jinha/images/Building-Faster-in-Xcode/Untitled-32.png)
 
 ## Summary
 
-![](/Jinha/images/Building-Faster-in-Xcode/Untitled33.png)
+![](/Jinha/images/Building-Faster-in-Xcode/Untitled-33.png)
 
 > Related:
 Building Your App with Xcode
