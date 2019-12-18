@@ -13,7 +13,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 ||12.16|12.17|12.18|12.19|12.20|12.21|12.22|
 |가온|✅|✅||||||
-|진하|✅|||||||
+|진하|✅|✅||||||
 ||12.09|12.10|12.11|12.12|12.13|12.14|12.15|
 |가온|✅|✅|🤯|❎|✅|✅|✅|
 |진하|✅|✅|✅|✅|🥳|❎|✅|
@@ -82,6 +82,7 @@
 |Debugging|**iOS Memory Deep Dive**|[가온 191110](gaonK/WWDC18/iOSMemoryDeepDive.md)|
 |Localization|**New Localization Workflows in Xcode 10**|[진하 191113](/Jinha/WWDC2018/New-Localization-Workflows-in-Xcode10.md)|
 |Performance|**Measuring Performance Using Logging**|[진하 191128](/Jinha/WWDC2018/Measuring-Performance-Using-Logging.md)|
+||**Building Faster in Xcode**|[진하 191217](/Jinha/WWDC2018/Building-Faster-in-Xcode.md)|
 |Interface Builder|**Optimizing App Assets**|[진하 191201](/Jinha/WWDC2018/Optimizing-App-Assets.md)|
 |App Store Connect|**What's New in App Store Connect**|[진하 191208](/Jinha/WWDC2018/What-s-New-in-App-Store-Connect.md)|
 
