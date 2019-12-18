@@ -12,7 +12,7 @@
 ||MON|TUE|WED|THU|FRI|SAT|SUN|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 ||12.16|12.17|12.18|12.19|12.20|12.21|12.22|
-|가온|✅|||||||
+|가온|✅|✅||||||
 |진하|✅|||||||
 ||12.09|12.10|12.11|12.12|12.13|12.14|12.15|
 |가온|✅|✅|🤯|❎|✅|✅|✅|
@@ -50,6 +50,7 @@
 ||**Introducing Accelerate for Swift**|[주희 191105](Juhee/2019/Swift_Accelerate.md) [가온 191208](gaonK/WWDC19/Introducing%20Accelerate%20for%20Swift.md)|
 |Testing|**Testing in Xcode**|[진하 191028](Jinha/WWDC2019/Testing-in-Xcode.md)|
 |Performance|**Advances in App Background Execution**|[가온 191031](gaonK/WWDC19/AdvancesInAppBackgroundExecution.md)|
+||**Getting Started with Instruments**|[가온 191217](gaonK/WWDC19/Getting%20Started%20with%20Instruments.md)|
 ||**Optimizing Storage in Your App**|[가온 191116](gaonK/WWDC19/OptimizingStorageInYourApp.md)|
 |UI Frameworks|**Implementing Dark Mode on iOS**|[주희 191031](Juhee/ImplementingDarkMode.md) [가온 191111](gaonK/WWDC19/ImplementingDarkModeOniOS.md)|
 ||**Architecting Your App for Multiple Windows**|[주희 191106](Juhee/2019/Architecting_Multiple_Windows.md) [가온 191130](gaonK/WWDC19/ArchitectingYourAppForMultipleWindows.md)|
