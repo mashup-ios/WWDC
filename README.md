@@ -12,7 +12,7 @@
 ||MON|TUE|WED|THU|FRI|SAT|SUN|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 ||12.16|12.17|12.18|12.19|12.20|12.21|12.22|
-|가온|✅|✅|🤯|||||
+|가온|✅|✅|🤯|✅||||
 |진하|✅|✅|😴|||||
 ||12.09|12.10|12.11|12.12|12.13|12.14|12.15|
 |가온|✅|✅|🤯|❎|✅|✅|✅|
@@ -76,8 +76,8 @@
 ||**Using Collections Effectively**|[가온 191126](gaonK/WWDC18/UsingCollectionsEffectively.md)|
 ||**Swift Generics (Expanded)**|[가온 191105](gaonK/WWDC18/SwiftGenerics(Expanded).md)|
 ||**What's New in Swift**|[진하 191126](Jinha/WWDC2018/What-s-New-in-Swift.md) [가온 191213](gaonK/WWDC18/What's%20New%20in%20Swift.md)|
-|Testing|**Testing Tips & Tricks**|[진하 191031](/Jinha/WWDC2018/Testing-Tips-Tricks.md)|
-||**What's New in Testing**|[진하 191102](/Jinha/WWDC2018/What-s-New-in-Testing.md)|/Jinha/WWDC2018/What-s-New-in-Testing.md
+|Testing|**Testing Tips & Tricks**|[진하 191031](/Jinha/WWDC2018/Testing-Tips-Tricks.md) [가온 191219](gaonK/WWDC18/Testing%20Tips%20%26%20Tricks.md)|
+||**What's New in Testing**|[진하 191102](/Jinha/WWDC2018/What-s-New-in-Testing.md)|
 |Accessibility|**Accessible Drag and Drop**|[주희 191109](Juhee/2018/Accessible_Drag%26Drop.md)|
 |Debugging|**iOS Memory Deep Dive**|[가온 191110](gaonK/WWDC18/iOSMemoryDeepDive.md)|
 |Localization|**New Localization Workflows in Xcode 10**|[진하 191113](/Jinha/WWDC2018/New-Localization-Workflows-in-Xcode10.md)|
