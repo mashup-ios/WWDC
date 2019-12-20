@@ -106,7 +106,7 @@
 |Category|Title|👩🏻‍💻|
 |:-|--------|-------------------|
 |Testing|**Advanced Testing and Continuous Integration**|[진하 191106](/Jinha/WWDC2016/Advanced-Testing-and-Continuous-Integration.md)|
-|Performance|**Concurrent Programming with GCD in Swift 3**|[가온 191108](gaonK/WWDC16/ConcurrentProgrammingWithGCDInSwift3.md) [진하191219](/Jinha/WWDC2016/Concurrent-Programming-With-GCD-in-Swift-3.md)|
+|Performance|**Concurrent Programming with GCD in Swift 3**|[가온 191108](gaonK/WWDC16/ConcurrentProgrammingWithGCDInSwift3.md) [진하191219](/Jinha/WWDC2016/Concurrent%20Programming%20With%20GCD%20in%20Swift%203.md)|
 |Localization|**Internationalization Best Practices**|[진하 191117](/Jinha/WWDC2016/Internationalization-Best-Practices.md)|
 |Video|**Advances in AVFoundation Playback**|[가온 191119](gaonK/WWDC16/AdvancesinAVFoundationPlayback.md)|
 |Swift|**What's New in Swift**|[진하 191125](Jinha/WWDC2016/What-s-New-in-Swift.md)|
