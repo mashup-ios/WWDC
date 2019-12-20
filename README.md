@@ -13,7 +13,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 ||12.16|12.17|12.18|12.19|12.20|12.21|12.22|
 |가온|✅|✅|🤯|✅||||
-|진하|✅|✅|😴|||||
+|진하|✅|✅|😴|✅||||
 ||12.09|12.10|12.11|12.12|12.13|12.14|12.15|
 |가온|✅|✅|🤯|❎|✅|✅|✅|
 |진하|✅|✅|✅|✅|🥳|❎|✅|
@@ -106,7 +106,7 @@
 |Category|Title|👩🏻‍💻|
 |:-|--------|-------------------|
 |Testing|**Advanced Testing and Continuous Integration**|[진하 191106](/Jinha/WWDC2016/Advanced-Testing-and-Continuous-Integration.md)|
-|Performance|**Concurrent Programming with GCD in Swift 3**|[가온 191108](gaonK/WWDC16/ConcurrentProgrammingWithGCDInSwift3.md)|
+|Performance|**Concurrent Programming with GCD in Swift 3**|[가온 191108](gaonK/WWDC16/ConcurrentProgrammingWithGCDInSwift3.md) [진하191219](/Jinha/WWDC2016/Concurrent-Programming-With-GCD-in-Swift-3.md)|
 |Localization|**Internationalization Best Practices**|[진하 191117](/Jinha/WWDC2016/Internationalization-Best-Practices.md)|
 |Video|**Advances in AVFoundation Playback**|[가온 191119](gaonK/WWDC16/AdvancesinAVFoundationPlayback.md)|
 |Swift|**What's New in Swift**|[진하 191125](Jinha/WWDC2016/What-s-New-in-Swift.md)|
