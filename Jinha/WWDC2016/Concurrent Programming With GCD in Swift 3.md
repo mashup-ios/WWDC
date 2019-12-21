@@ -8,8 +8,6 @@ WWDC 2016 | Session : 720 | Category : Performance
 
 [Concurrent Programming With GCD in Swift 3 - WWDC 2016 - Videos - Apple Developer](https://developer.apple.com/videos/play/wwdc2016/720/)
 
-[https://brunch.co.kr/@tilltue/29](https://brunch.co.kr/@tilltue/29)
-
 ![Concurrent%20Programming%20With%20GCD%20in%20Swift%203/Untitled.png](Concurrent%20Programming%20With%20GCD%20in%20Swift%203/Untitled.png)
 
 ## Concurrency
