@@ -52,6 +52,7 @@
 |Performance|**Advances in App Background Execution**|[가온 191031](gaonK/WWDC19/AdvancesInAppBackgroundExecution.md)|
 ||**Getting Started with Instruments**|[가온 191217](gaonK/WWDC19/Getting%20Started%20with%20Instruments.md)|
 ||**Optimizing Storage in Your App**|[가온 191116](gaonK/WWDC19/OptimizingStorageInYourApp.md)|
+||**Designing for Adverse Network and Temperature Conditions**|[가온 191221](gaonK/WWDC19/Designing%20for%20Adverse%20Network%20and%20Temperature%20Conditions.md)|
 |UI Frameworks|**Implementing Dark Mode on iOS**|[주희 191031](Juhee/ImplementingDarkMode.md) [가온 191111](gaonK/WWDC19/ImplementingDarkModeOniOS.md)|
 ||**Architecting Your App for Multiple Windows**|[주희 191106](Juhee/2019/Architecting_Multiple_Windows.md) [가온 191130](gaonK/WWDC19/ArchitectingYourAppForMultipleWindows.md)|
 |Debugging|**LLDB: Beyond "po"**|[가온 191101](gaonK/WWDC19/LLDBBeyondPo.md) [주희 191102](Juhee/2019/LLDB-Beyond-po.md)|
