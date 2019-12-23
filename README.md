@@ -11,6 +11,9 @@
 
 ||MON|TUE|WED|THU|FRI|SAT|SUN|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+||12.23|12.24|12.25|12.26|12.27|12.28|12.29|
+|가온|✅|||||||
+|진하||||||||
 ||12.16|12.17|12.18|12.19|12.20|12.21|12.22|
 |가온|✅|✅|🤯|✅|✅|✅|❎|
 |진하|✅|✅|😴|✅||||
@@ -82,7 +85,7 @@
 |Accessibility|**Accessible Drag and Drop**|[주희 191109](Juhee/2018/Accessible_Drag%26Drop.md) [가온 191220](gaonK/WWDC18/Accessible%20Drag%20and%20Drop.md)|
 |Debugging|**iOS Memory Deep Dive**|[가온 191110](gaonK/WWDC18/iOSMemoryDeepDive.md)|
 |Localization|**New Localization Workflows in Xcode 10**|[진하 191113](/Jinha/WWDC2018/New-Localization-Workflows-in-Xcode10.md)|
-|Performance|**Measuring Performance Using Logging**|[진하 191128](/Jinha/WWDC2018/Measuring-Performance-Using-Logging.md)|
+|Performance|**Measuring Performance Using Logging**|[진하 191128](/Jinha/WWDC2018/Measuring-Performance-Using-Logging.md) [가온 191223](gaonK/WWDC18/Measuring%20Performance%20Using%20Logging.md)|
 ||**Building Faster in Xcode**|[진하 191217](/Jinha/WWDC2018/Building-Faster-in-Xcode.md)|
 |Interface Builder|**Optimizing App Assets**|[진하 191201](/Jinha/WWDC2018/Optimizing-App-Assets.md)|
 |App Store Connect|**What's New in App Store Connect**|[진하 191208](/Jinha/WWDC2018/What-s-New-in-App-Store-Connect.md)|
