@@ -13,7 +13,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 ||12.23|12.24|12.25|12.26|12.27|12.28|12.29|
 |가온|✅|||||||
-|진하||||||||
+|진하|✅|||||||
 ||12.16|12.17|12.18|12.19|12.20|12.21|12.22|
 |가온|✅|✅|🤯|✅|✅|✅|❎|
 |진하|✅|✅|😴|✅|❎|❎|❎|
@@ -89,6 +89,8 @@
 ||**Building Faster in Xcode**|[진하 191217](/Jinha/WWDC2018/Building-Faster-in-Xcode.md)|
 |Interface Builder|**Optimizing App Assets**|[진하 191201](/Jinha/WWDC2018/Optimizing-App-Assets.md)|
 |App Store Connect|**What's New in App Store Connect**|[진하 191208](/Jinha/WWDC2018/What-s-New-in-App-Store-Connect.md)|
+|Debuggin|**Understanding Crashes and Crash Logs**|[진하 191223](/Jinha/WWDC2018/Understanding-Crashes-and-Crash-Logs.md)|
+
 
 ### WWDC17
 |Category|Title|👩🏻‍💻|
