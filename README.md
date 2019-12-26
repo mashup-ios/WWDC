@@ -13,7 +13,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 ||12.23|12.24|12.25|12.26|12.27|12.28|12.29|
 |가온|✅|🤯|🎅🏻|||||
-|진하|✅|😴|🎄|||||
+|진하|✅|😴|🎄|✅||||
 ||12.16|12.17|12.18|12.19|12.20|12.21|12.22|
 |가온|✅|✅|🤯|✅|✅|✅|❎|
 |진하|✅|✅|😴|✅|❎|❎|❎|
@@ -123,6 +123,7 @@
 |Cloud and Local Storage|**What's New in Core Data**|[가온 191206](gaonK/WWDC16/What's%20New%20in%20Core%20Data.md)|
 |Networking|**What's New in Apple Push Notification Service**|[가온 191209](gaonK/WWDC16/What's%20New%20in%20Apple%20Push%20Notification%20Service.md)|
 |Typography|**Typography and Fonts**|[가온 191214](gaonK/WWDC16/Typography%20and%20Fonts.md)|
+|Debugging|**Thread Sanitizer and Static Analysis**|[진하 191226](/Jinha/WWDC2016/Thread-Sanitizer-and-Static-Analysis.md)|
 
 ### WWDC15
 |Category|Title|👩🏻‍💻|
