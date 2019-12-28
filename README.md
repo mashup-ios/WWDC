@@ -13,7 +13,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 ||12.23|12.24|12.25|12.26|12.27|12.28|12.29|
 |가온|✅|🤯|🎅🏻|❎|❎|||
-|진하|✅|😴|🎄|✅||||
+|진하|✅|😴|🎄|✅|❎|✅||
 ||12.16|12.17|12.18|12.19|12.20|12.21|12.22|
 |가온|✅|✅|🤯|✅|✅|✅|❎|
 |진하|✅|✅|😴|✅|❎|❎|❎|
@@ -72,6 +72,8 @@
 ||**Advances in Networking, Part 1**|[가온 191121](gaonK/WWDC19/AdvancesInNetworkingPart1.md)|
 |App Store Connect|**What's New in App Store Connect**|[진하 191211](/Jinha/WWDC2019/What-s-New-in-App-Store-Connect.md)|
 |Design|**What's New in iOS Design**|[진하 191212](/Jinha/WWDC2019/What-s-New-in-iOS-Design.md)|
+|App Store|**App Distribution – From Ad-hoc to Enterprise**|[진하 191228](/Jinha/WWDC2019/App-Distribution-From-Ad-hoc-to-Enterprise.md)|
+
 
 ### WWDC18
 |Category|Title|👩🏻‍💻|
