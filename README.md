@@ -13,7 +13,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 ||12.30|12.31|1.1|1.2|1.3|1.4|1.5|
 |가온|🤯|✅||||||
-|진하|✅|||||||
+|진하|✅|✅||||||
 ||12.23|12.24|12.25|12.26|12.27|12.28|12.29|
 |가온|✅|🤯|🎅🏻|❎|❎|❎|❎|
 |진하|✅|😴|🎄|✅|❎|✅|❎|
@@ -126,6 +126,7 @@
 ||**Understanding Swift Performance**|[가온 191210](gaonK/WWDC16/Understanding%20Swift%20Performance.md)|
 |Xcode|**Improving Existing Apps with Modern Best Practices**|[진하 191127](/Jinha/WWDC2016/Improving-Existing-Apps-with-Modern-Best-Practices.md)|
 |App Store Connect|**What's New in iTunes Connect**|[진하 191205](/Jinha/WWDC2016/What-s-New-in-iTunes-Connect.md)|
+||**Introducing Expanded Subscriptions in iTunes Connect**|[진하 200101](/Jinha/WWDC2016/Introducing-Expanded-Subscriptions-in-iTunes-Connet.md)
 |Cloud and Local Storage|**What's New in Core Data**|[가온 191206](gaonK/WWDC16/What's%20New%20in%20Core%20Data.md)|
 |Networking|**What's New in Apple Push Notification Service**|[가온 191209](gaonK/WWDC16/What's%20New%20in%20Apple%20Push%20Notification%20Service.md)|
 |Typography|**Typography and Fonts**|[가온 191214](gaonK/WWDC16/Typography%20and%20Fonts.md)|
