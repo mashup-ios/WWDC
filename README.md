@@ -12,7 +12,7 @@
 ||MON|TUE|WED|THU|FRI|SAT|SUN|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 ||12.30|12.31|1.1|1.2|1.3|1.4|1.5|
-|가온|🤯|✅||||||
+|가온|🤯|✅|✅|||||
 |진하|✅|✅||||||
 ||12.23|12.24|12.25|12.26|12.27|12.28|12.29|
 |가온|✅|🤯|🎅🏻|❎|❎|❎|❎|
@@ -77,6 +77,7 @@
 |Design|**What's New in iOS Design**|[진하 191212](/Jinha/WWDC2019/What-s-New-in-iOS-Design.md)|
 |App Store|**App Distribution – From Ad-hoc to Enterprise**|[진하 191228](/Jinha/WWDC2019/App-Distribution-From-Ad-hoc-to-Enterprise.md)|
 |Audio|**AUv3 Extensions User Presets**|[가온 191231](gaonK/WWDC19/AUv3%20Extensions%20User%20Presets.md)|
+|Siri and Voice|**Advances in Speech Recognition**|[가온 200101](gaonK/WWDC19/Advances%20in%20Speech%20Recognition.md)|
 
 
 ### WWDC18
