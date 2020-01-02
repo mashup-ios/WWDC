@@ -12,7 +12,7 @@
 ||MON|TUE|WED|THU|FRI|SAT|SUN|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 ||12.30|12.31|1.1|1.2|1.3|1.4|1.5|
-|가온|🤯|✅|✅|||||
+|가온|🤯|✅|✅|✅||||
 |진하|✅|✅|🐡|✅||||
 ||12.23|12.24|12.25|12.26|12.27|12.28|12.29|
 |가온|✅|🤯|🎅🏻|❎|❎|❎|❎|
@@ -88,7 +88,7 @@
 ||**Swift Generics (Expanded)**|[가온 191105](gaonK/WWDC18/SwiftGenerics(Expanded).md)|
 ||**What's New in Swift**|[진하 191126](Jinha/WWDC2018/What-s-New-in-Swift.md) [가온 191213](gaonK/WWDC18/What's%20New%20in%20Swift.md)|
 |Testing|**Testing Tips & Tricks**|[진하 191031](/Jinha/WWDC2018/Testing-Tips-Tricks.md) [가온 191219](gaonK/WWDC18/Testing%20Tips%20%26%20Tricks.md)|
-||**What's New in Testing**|[진하 191102](/Jinha/WWDC2018/What-s-New-in-Testing.md)|
+||**What's New in Testing**|[진하 191102](/Jinha/WWDC2018/What-s-New-in-Testing.md) [가온 200102](gaonK/WWDC18/What's%20New%20in%20Testing.md)|
 |Accessibility|**Accessible Drag and Drop**|[주희 191109](Juhee/2018/Accessible_Drag%26Drop.md) [가온 191220](gaonK/WWDC18/Accessible%20Drag%20and%20Drop.md)|
 |Debugging|**iOS Memory Deep Dive**|[가온 191110](gaonK/WWDC18/iOSMemoryDeepDive.md)|
 |Localization|**New Localization Workflows in Xcode 10**|[진하 191113](/Jinha/WWDC2018/New-Localization-Workflows-in-Xcode10.md)|
