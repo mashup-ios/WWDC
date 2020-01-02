@@ -13,7 +13,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 ||12.30|12.31|1.1|1.2|1.3|1.4|1.5|
 |가온|🤯|✅|✅|||||
-|진하|✅|✅|🐡|||||
+|진하|✅|✅|🐡|✅||||
 ||12.23|12.24|12.25|12.26|12.27|12.28|12.29|
 |가온|✅|🤯|🎅🏻|❎|❎|❎|❎|
 |진하|✅|😴|🎄|✅|❎|✅|❎|
@@ -149,4 +149,5 @@
 |App Store Connect|**What's New in iTunes Connect**|[진하 191202](/Jinha/WWDC2015/What-s-New-in-iTunes-Connect.md)
 |Xcode|**App Thinning in Xcode**|[진하 191204](/Jinha/WWDC2015/App-Thinning-in-Xcode.md)|
 |Performance|**Optimizing Swift Performance**|[진하 191216](/Jinha/WWDC2015/Optimizing-Swift-Performance.md)|
+||**Building Responsive and Efficient Apps with GCD**|[진하 200102](/Jinha/WWDC2015/Building-Responsive-and-Efficient-Apps-with-GCD.md)|
 |Debugging|**Advanced Debugging and the Address Sanitizer**|[진하 191230](/Jinha/WWDC2015/Advanced-Debugging-and-the-Address-Sanitizer.md)|
