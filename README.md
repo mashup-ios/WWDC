@@ -13,7 +13,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 ||12.30|12.31|1.1|1.2|1.3|1.4|1.5|
 |가온|🤯|✅|✅|✅|✅|✅||
-|진하|✅|✅|🐡|✅|❎|||
+|진하|✅|✅|🐡|✅|❎|✅||
 ||12.23|12.24|12.25|12.26|12.27|12.28|12.29|
 |가온|✅|🤯|🎅🏻|❎|❎|❎|❎|
 |진하|✅|😴|🎄|✅|❎|✅|❎|
@@ -79,7 +79,6 @@
 |Audio|**AUv3 Extensions User Presets**|[가온 191231](gaonK/WWDC19/AUv3%20Extensions%20User%20Presets.md)|
 |Siri and Voice|**Advances in Speech Recognition**|[가온 200101](gaonK/WWDC19/Advances%20in%20Speech%20Recognition.md)|
 
-
 ### WWDC18
 |Category|Title|👩🏻‍💻|
 |:-|--------|-------------------|
@@ -97,7 +96,6 @@
 |Interface Builder|**Optimizing App Assets**|[진하 191201](/Jinha/WWDC2018/Optimizing-App-Assets.md)|
 |App Store Connect|**What's New in App Store Connect**|[진하 191208](/Jinha/WWDC2018/What-s-New-in-App-Store-Connect.md)|
 |Debugging|**Understanding Crashes and Crash Logs**|[진하 191223](/Jinha/WWDC2018/Understanding-Crashes-and-Crash-Logs.md)|
-
 
 ### WWDC17
 |Category|Title|👩🏻‍💻|
@@ -125,6 +123,7 @@
 |Swift|**What's New in Swift**|[진하 191125](Jinha/WWDC2016/What-s-New-in-Swift.md)|
 ||**Protocol and Value Oriented Programming in UIKit Apps**|[가온 191205](gaonK/WWDC16/Protocol%20and%20Value%20Oriented%20Programming%20in%20UIKit%20Apps.md) [진하 191215](/Jinha/WWDC2016/Protocol-and-Value-Oriented-Programming-in-UIKit-APPS.md)|
 ||**Understanding Swift Performance**|[가온 191210](gaonK/WWDC16/Understanding%20Swift%20Performance.md)|
+||**Swift API Design Guidelines**|[진하 200104](/Jinha/WWDC2016/Swift-API-Design-Guidelines.md)
 |Xcode|**Improving Existing Apps with Modern Best Practices**|[진하 191127](/Jinha/WWDC2016/Improving-Existing-Apps-with-Modern-Best-Practices.md)|
 |App Store Connect|**What's New in iTunes Connect**|[진하 191205](/Jinha/WWDC2016/What-s-New-in-iTunes-Connect.md)|
 ||**Introducing Expanded Subscriptions in iTunes Connect**|[진하 191231](/Jinha/WWDC2016/Introducing-Expanded-Subscriptions-in-iTunes-Connet.md)
