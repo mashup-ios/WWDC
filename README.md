@@ -12,7 +12,7 @@
 ||MON|TUE|WED|THU|FRI|SAT|SUN|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 ||12.30|12.31|1.1|1.2|1.3|1.4|1.5|
-|가온|🤯|✅|✅|✅|✅|||
+|가온|🤯|✅|✅|✅|✅|✅||
 |진하|✅|✅|🐡|✅|❎|||
 ||12.23|12.24|12.25|12.26|12.27|12.28|12.29|
 |가온|✅|🤯|🎅🏻|❎|❎|❎|❎|
@@ -71,7 +71,7 @@
 |Video|**Delivering Intuitive Media Playback with AVKit**|[주희 191110](Juhee/2019/Delivering_Media_Playback_AVKit.md) [가온 191118](gaonK/WWDC19/DeliveringIntuitiveMediaPlaybackWithAVKit.md)|
 |Xcode|**Getting Started with Xcode**|[가온 191114](gaonK/WWDC19/GettingStartedWithXcode.md)|
 |Localization|**Creating Great Localized Experiences with Xcode 11**|[진하 191115](/Jinha/WWDC2019/Creating-Great-Localized-Experiences-with-Xcode11.md)|
-|Networking|**What's New in Universal Links**|[진하 191118](/Jinha/WWDC2019/What-s-New-in-Universal-Links.md)|
+|Networking|**What's New in Universal Links**|[진하 191118](/Jinha/WWDC2019/What-s-New-in-Universal-Links.md) [가온 200104](gaonK/WWDC19/What's%20New%20in%20Universal%20Links.md)|
 ||**Advances in Networking, Part 1**|[가온 191121](gaonK/WWDC19/AdvancesInNetworkingPart1.md)|
 |App Store Connect|**What's New in App Store Connect**|[진하 191211](/Jinha/WWDC2019/What-s-New-in-App-Store-Connect.md)|
 |Design|**What's New in iOS Design**|[진하 191212](/Jinha/WWDC2019/What-s-New-in-iOS-Design.md)|
